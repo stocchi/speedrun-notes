@@ -50,7 +50,7 @@
 | 9     | X       | X          | X       | X          |
 
 _todo_ add triple extend images with potion, and new ones when they come out
- 
+
 #### Brock
 **Weedle Guy**: 3-4 (5-6)
 HP | ITEMS
@@ -71,18 +71,18 @@ Geodude      | Tackle
 
 </td><td>
 
-Onix         | Tackle        | @-2          | @-4
------------- | ------------- | ------------ | -------------
-16 Defense   | 6-8 [11-13]   | 11-14        | 17-21
-17 Defense   | 5-7 [10-12]   | 11-14        | 17-21
-18 Defense   | 5-7 [10-12]   | 10-12        | 17-21
-19 Defense   | 5-7 [10-12]   | 10-12        | 15-18
+Onix         | Tackle        | @-2
+------------ | ------------- | ------
+16 Defense   | 6-8 [11-13]   | 11-14
+17 Defense   | 5-7 [10-12]   | 11-14
+18 Defense   | 5-7 [10-12]   | 10-12
+19 Defense   | 5-7 [10-12]   | 10-12
 
 </td></tr> </table>
-  
+
 #### Route 3
 
-Change Options to Set 
+Change Options to Set
 
 **Short Guy**:
 HP | ITEMS
@@ -112,7 +112,7 @@ Ekans        | Wrap          | Poison Sting
 Caterpie     | Tackle
 ------------ | -------------
 &nbsp;       | 3-4 [5-6]
- 
+
 
 **Bug Catcher 3**:
 HP | ITEMS
@@ -125,7 +125,7 @@ Caterpie     | Tackle
 &nbsp;       | 3-4 [5-6]
 
 
-#### Moon 
+#### Moon
 
 HP | ITEMS
 ----- | ---
@@ -135,11 +135,11 @@ HP | ITEMS
 ≥36 | Don't heal
 
 Route 3 F36/37 backups _TODO_ photo of this
- 
+
 F36 - select ball for both full hp and red bar
 58/60 igt (igt second) (57/60 for easier movement last floor from stringflow)
 https://imgur.com/a/Z6mTveD
- 
+
 F37 - normal yoloball for both full hp and red bar
 51/60 igt (igt second)
 https://imgur.com/a/9CogLt8
@@ -153,22 +153,22 @@ Zubat        | Leech Life    | Self Hit
 
 #### Bridge
 
-**Rival 1**: 
+**Rival 1**:
 A-BA-BAB-AB
 A-BAB-AB-AB-AB..
 
 **Mankey**: 8-27 HA
- 
+
 **Rocket**:
 BA--BA-BA-BA-B-A-B...
 B-A-B
- 
+
 **Zubat**: 15-19 HA
 
 #### Misty
 
 **Machop**: 16-20 HA(+PS) (unless low on Potions)
- 
+
 **Bill**:
 HP | ITEMS
 ----- | ---
@@ -176,12 +176,12 @@ HP | ITEMS
 8-28 | 2 Potions
 28-47 | 1 Potion
 ≥48 | Don't heal
- 
+
 **Bill**:
 - Potion (1)
 - Rare Candy (5)
 - Escape Rope (3)
- 
+
 **Dig Rocket**: AB-AB
 
 **Misty**:
@@ -207,7 +207,7 @@ HP | MOVE
 ≤6 | Potion turn 1
 7-12 | HA
 ≥13 | BB if you have it, otherwise HA
- 
+
 **Raticate**
 HP | &nbsp;
 ----- | ---
@@ -220,15 +220,15 @@ BA--BA--B-A-B-A-BA-B
 
 Gentleman on 1-4 (up to 8 on great pace)
  - 3rd door from the right
- 
+
 **Vermillion**:
-- sell 
+- sell
  - TM34 (2)
  - Nugget (3)
 - buy
  - 6 Repels (3 under Ice Heal)
  - 2 Paralyz Heals (1 under)
- 
+
 **Cut**:
 - TM11 (5)
 - HM01 (5)
@@ -238,13 +238,13 @@ Gentleman on 1-4 (up to 8 on great pace)
 #### Fly
 
 **Bike**:
-- swap 1 for Bike (2 under Paralyze Heals)
+- swap 1 for Bike (2 under **Paralyze Heals**)
 - TM34 (1 above)
- 
+
 Repel (5)
- 
+
 **Oddish**: ≥20 Thrash
- 
+
 **Fly**:
 HP | &nbsp;
 ----- | ---
@@ -256,23 +256,23 @@ HP | &nbsp;
 28-38 | Thrash Venonat + TB Cubone
 39-43 | Thrash Venonat + BB+BB+TB Slowpoke (take 2 hits)
 ≥44 | Thrash Venonat + TB Cubone and Thrash Slowpoke (take 2 hits)
- 
+
 **Oddish**: 18-22 TB then Thrash, Paralyz Heal (6) if Stun Spore
- 
+
 **Gambler**:
 HP | MOVE
 ----- | ---
 ≤4 | Potion (7) on Growlithe
 5-20 | BB
 ≥21 | Thrash
- 
+
 **Lavender Rival**
 HP | &nbsp;
 ----- | ---
 ≤8 | Potion (6) turn 1 (X Acc turn 2 if no damage, TB if damage)
 9-19 | TB, then Thrash Ivysaur
 ≥20 | X Acc
- 
+
 **Late Drill**:
 - 7 Super Repels
 - 4 Super Potions
@@ -280,7 +280,7 @@ HP | &nbsp;
 - 11 X Accs
 - 6 X Specials
 - 3 X Speeds
- 
+
 **Early Drill**:
 - 7 Super Repels
 - 3 Super Potions
@@ -292,29 +292,29 @@ HP | &nbsp;
 #### Flute
 
 **Fly Menu**:
-- swap 2 for TM07 (2 under Max Ether)
+- swap 2 for TM07 (2 under **Max Ether**)
 - Super Repel (1 under)
 - TM48 (3 under)
  - TM07 (2) if early drill, next swap starts with 2
-- swap 3 with X Acc (2 under Poke Dolls)
+- swap 3 with X Acc (2 under **Poke Dolls**)
 - HM02 (3 under)
- 
+
 **Ghost**:
-- swap 3 for Super Repel (3 under Max Ether)
+- swap 3 for Super Repel (3 under **Max Ether**)
 - Poké Doll (2 under)
- 
-#### Koga 
- 
+
+#### Koga
+
 **Arbok**: Paralyz Heal (5)
- 
-**Silph Rival Turn 2**: X Speed (2 under S.S. Ticket)
+
+**Silph Rival Turn 2**: X Speed (2 under **S.S. Ticket**)
 
 **Silph Rival Turn 3**:
 HP | &nbsp;
 ----- | ---
 ≤99 | X Special
 ≥100 | Horn Drill
- 
+
 **Silph Rival Gyarados**:
 HP | If +1 Spec and +0 Speed:
 ----- | ---
@@ -335,25 +335,25 @@ HP | If +1 Spec and +1 Speed
 76-88 | X Special
 89-100 | Potion
 ≥101 | Poké Flute
- 
-**Post-Silph Rival**: Elixir (8, 2 under Potion)
- 
+
+**Post-Silph Rival**: Elixir (8, 2 under **Potion**)
+
 **Silph Rocket** ≥78 Elixir on Drowzee (on Cubone instead if it Bone Clubs)
- 
+
 **Rhyhorn** 24-37 TB
- 
+
 **Snorlax Menu**:
 - Repel (4)
-- swap 5 for Rare Candy (3 under X Special)
+- swap 5 for Rare Candy (3 under **X Special**)
 - Poké Flute (1 under)
- 
+
 **Post-Cycling Road Menu**:
 - Repel (4)
-- swap 6 for X Special (2 under Super Potion)
-- TM26 (6 under, 3 under Paralyze Heals)
- 
+- swap 6 for X Special (2 under **Super Potion**)
+- TM26 (6 under, 3 under **Paralyze Heals**)
+
 **Koga**:
-- Elixer on Weezing (8, 2 under Xspecial)
+- Elixer on Weezing (8, 2 under **XSpecial**)
  - X Special (2 above) if X Attack and have a spare
 
 #### Erika
@@ -370,14 +370,14 @@ HP | Stall
 12-14 | Nidoking Elixer (out at L46), then X Special/TB until hit
 15-22 | Vileplume Poké Flute (out at L43-L45)
 ≥23 | Victreebel Poké Flute (out at L43-L45)
- 
+
 **Post-Koga**: Rare Candy (5)
- 
+
 **Pallet Menu**:
 - Super Repel
-- swap Helix Fossil (8, 2 under Max ether) with XSpeed (5 under, 2 under S.S.Ticket)
-- HM03 (5 under, 2 under PokeFlute)
- 
+- swap Helix Fossil (8, 2 under **Max ether**) with XSpeed (5 under, 2 under **S.S.Ticket**)
+- HM03 (5 under, 2 under **PokeFlute**)
+
 **Blizzard**:
 - HM04
 - TM14
@@ -385,7 +385,7 @@ HP | Stall
 
 #### End
 
-**Gio**: 
+**Gio**:
 - Elixer (6)
  - on bike menu if HD Growlithe
 
@@ -397,31 +397,32 @@ Save 1 Blizzard for Agatha
 
 **Viridian Rival**
 - XAcc
-- XSpeed (7, 2 under Max Ether)
+- XSpeed (7, 2 under **Max Ether**)
 - TB Gyarados if elixir was used on bike menu
 
 Pick Up Max Ether
 
 **Last Repel**:
-- Max Ether (2 under)
+- Max Ether (2 under) **TO SLOT 1 POKEMON, CURSOR IS ON 2**
 - Super Repel (2 above)
 - Bike (on cursor)
 
-Swap Pidgey first
+**Lorelei**: Swap Pidgey in front
 
-Bruno: Max Ether (4) TO SLOT 2 POKEMON
- 
+**Bruno**: Max Ether (4) **TO SLOT 2 POKEMON**
+
+**Agatha**:
 HP at Agatha | Heal with
 ----- | ---
 ≤18 | Super Potion + Potion
 ≥19 | Super Potion
- 
-**Agatha**:
-- Super Potion (7, 2 under Xspeed) TO SLOT 2 POKEMON
+
+- Super Potion (7, 2 under **Xspeed**) **TO SLOT 2 POKEMON**
 - Rare Candy (2 under HM03)
 
 Poké Flute (2 under HM02)
 
+**Lance**:
 HP at Lance | Heal with
 ----- | ---
 4-6    | Super Potion x2 + Potion x2
@@ -432,14 +433,14 @@ HP at Lance | Heal with
 77-98  | Super Potion
 99-106 | Potion x2
 107-125| Potion
- 
-**Lance**:
-- Elixer (4) TO SLOT 2 POKEMON
+
+
+- Elixer (4) **TO SLOT 2 POKEMON**
 - Super Potion (6)
-- Potion (3 under Super Potion/2 under Poké Doll or slot 8 if run out of Super Potions)
- 
+- Potion (2 under Super Potions, XSpeed if out of them)
+
 **Hydro Pump Miss** ≤132 X Speed
- 
+
 **Champion**:
 HP at Champ | Heal with
 ----- | ---
@@ -449,3 +450,6 @@ HP at Champ | Heal with
 23-37  | Don't heal if you have at least 1 Blizzard remaining
 38-44  | Potion if godly pace, otherwise don't heal
 ≥45  | Don't heal
+
+- Super Potion (5)
+- Potion (6), (5) if out of Super Potion
