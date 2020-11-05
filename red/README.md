@@ -383,16 +383,13 @@ HP | Stall
 - Elixer (6)
  - on bike menu if HD Growlithe
 
-Save 1 Blizzard for Agatha
-- Rhydon usually takes 2
--  Viridian Rival takes 2
- - can EQ rhyhorn
-- if elixir was used on bike menu, save another one
+Save 2 Blizzard
 
 **Viridian Rival**
 - XAcc
 - XSpeed (7, 2 under **Max Ether**)
 - TB Gyarados if elixir was used on bike menu
+ - EQ Rhyhorn if you missed too many blizzard and elixir was used on bike menu
 
 Pick Up Max Ether
 
