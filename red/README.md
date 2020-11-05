@@ -134,15 +134,9 @@ HP | ITEMS
 16-35 | 1 Potion
 ≥36 | Don't heal
 
-Route 3 F36/37 backups _TODO_ photo of this
-
-F36 - select ball for both full hp and red bar
-58/60 igt (igt second) (57/60 for easier movement last floor from stringflow)
-https://imgur.com/a/Z6mTveD
-
-F37 - normal yoloball for both full hp and red bar
-51/60 igt (igt second)
-https://imgur.com/a/9CogLt8
+**Route 3 Backups**
+- <details><summary>F36 Girl walks right, select ball for both full hp and red bar</summary><br><img src="https://i.imgur.com/JULDmtp.png" width="1000"><img src="https://i.imgur.com/LhI6lLi.png" width="1000"></details>
+- <details><summary>F37 Girl faces left, normal yoloball for both full hp and red bar</summary><br><img src="https://i.imgur.com/ZG5HQ2D.png" width="1000"><img src="https://i.imgur.com/zrzsiAl.png" width="1000"></details>
 
 **Moon Rocket**:
 
