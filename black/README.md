@@ -176,101 +176,113 @@ Weaken it (Take Down{TODO}/Confusion) and throw Dusk ball, then Ultra Ball/Heal 
 
 Pokémon Trainer N: DK, DK, DK (37,5%)
 
-Nacrene Gym:
+#### Nacrene Gym:
 
-School Kid Carter: DK
-Scientist Satomi: DK+DK (6,3%)
-- Teach LS over Focus Energy
+- School Kid Carter: DK
+- Scientist Satomi: DK+DK (6,3%)
+	- Teach LS over Focus Energy
 
-School Kid Lydia: LS, LS, LS
-If no HM friend alive, Teach Work Up over Leer if havent done before and heal if in Take Down range
-Leader Lenora: WU+LS,LS
+- School Kid Lydia: LS, LS, LS
+- If no HM friend alive, Teach Work Up over Leer if havent done before and heal if in Take Down range
+
+
+- Leader Lenora: WU+LS,LS
 	- if HM friend alive in party, swap turn 1, let it die, then LS, LS
-	Take Down: 24-28[48-57]
+	- Take Down: 24-28[48-57]
 
-Pinwheel Forest:
 
-Team Plasma Grunt: LS
-Repel and teach Retaliate over Bide, teach Work Up over Leer if haven't done before
-Team Plasma Grunt: LS
-Pokémon Ranger Audra: LS
-Team Plasma Grunt: LS
-Team Plasma Grunt: DK, DK, DK
+#### Pinwheel Forest:
 
-Castelia City:
+- Team Plasma Grunt: LS
+	- Repel and teach Retaliate over Bide, teach Work Up over Leer if haven't done before
+-Team Plasma Grunt: LS
+-Pokémon Ranger Audra: LS
+-Team Plasma Grunt: LS
+-Team Plasma Grunt: DK, DK, DK
 
-Team Plasma Grunt: LS, LS
+#### Castelia City:
+- Team Plasma Grunt: LS, LS
 
-Castelia Gym:
+#### Castelia Gym:
 
-Harlequin Jack: WU*2+RTL, RTL
-Harlequin Louis: WU+RTL, RTL (RTL, LS+LS if out of PP)
+- Harlequin Jack: WU*2+RTL, RTL
+- Harlequin Louis: WU+RTL, RTL(+RTL)
+	- LS+LS if out of PP
 
 Heal if below half (can always heal to full for safety), ether on RTL
 
 Leader Burgh:
-	- Guard Spec (skip if entering the fight at ~60%), WU+RTL+RTL
-	  - Poison Tail 9-12[19-24]
-	- LS+LS+RTL
-	  - Razor Leaf 16-19[33-39]
-	- LS
+- Guard Spec (skip if entering the fight at ~60%), WU+RTL+RTL
+	 - Poison Tail 9-12[19-24]
+- LS+LS+RTL
+	 - Razor Leaf 16-19[33-39]
+- LS
 
-Castelia City:
-
+#### Castelia City:
 Repel 1 step after entering, heal to near full
 
 Pokémon Trainer Bianca:
-	- WU+WU+DK
-	 - Take Down: 16-19[33-39]
-	- RTL
-	- LS
-	- DK
+- WU+WU+DK
+	- Take Down: 16-19[33-39]
+- RTL
+- LS
+- DK
 
-Route 4:
-
-Pokémon Trainer Cheren: WU+DK, DK, LS, DK (do not DK Pignite, it will proc the berry)
+#### Route 4:
+Pokémon Trainer Cheren:
+- WU+DK
 	- replace DK with LS until out of PP
 	- Air Cutter 22-27[44-54]
 	- Quick Attack 8-10[16-20]
+- LS
+	- never DK Pignite, it will proc the berry
+- DK
+- DK
 
-Nimbasa City:
+####  Nimbasa City:
 
-Team Plasma Grunt: DK, RTL(DK+DK if out of RTL PP)
-
-Register Bike, use it from menu, bike to center.
-Buy Return, 4 Paralyze Heals, Max Hyper Potion
-PC Heal, Withdraw flier
+- Team Plasma Grunt: DK, RTL(DK+DK if out of RTL PP)
+- Register Bike, use it from menu, bike to center.
+- Buy
+ 	- Return
+	- 4 Paralyze Heals
+	- Max Hyper Potion
+- PC Heal Sawk, Withdraw/Heal flier
 
 Team Plasma N:
-	- WU+WU+LS
-	  - Can Work Up another time to guarantee Sigyliph range
-	- RTL (75%)
-	  - Psybeam 36-44
-	- LS
-	- LS
+- WU+WU+LS
+	- Can Work Up another time to guarantee Sigyliph range
+- RTL (75%)
+	 - Psybeam 36-44
+- LS
+- LS
 
-Lady Magnolia: WU+WU+RTL, RTL(if out of RTL PP because of Double Team, Work Up again and LS)
+
+- Lady Magnolia: WU+WU+RTL RTL
+	- if out of RTL PP because of Double Team, Work Up again and LS
 	- Spark 16-19 [34-41]
-Rich Boy Cody: LS
-Rich Boy Rolan: LS, LS
+- Rich Boy Cody: LS
+- Rich Boy Rolan: LS, LS
 
 if you have less than 2 RTL PP, teach Return over LS before this fight
-Lady Colette: RTL+RTL (with 1 RTL, RTL+LS, with 0, WU+LSx2)
-	- spark 16-19[33-39]
+
+- Lady Colette: RTL+RTL
+	- with 1 RTL, RTL+LS, with 0, WU+LSx2
+	- Spark 16-19[33-39]
 
 Teach Return over LS, heal to full (top2 riskier fight in the game, save for safety)
 
 Leader Elesa:
-	- X-Speed, WUx2, Return
-	  - Range if worst case scenario Friendship RNG
-	  - Air Cutter 20-26[44-54]
-	  - Quick Attack 6-8[12-16]
-	  - Teach BB over RTL
-	- Return
-	  - Quick Attack 6-8[12-16]
-	- BB
-	 - Quick Attack 11-13[22-26]
-	 - Spark 25-30 [51-60]
+- X-Speed, WUx2, Return
+	- Range if worst case scenario Friendship RNG
+	- Air Cutter 20-26[44-54]
+	- Quick Attack 6-8[12-16]
+	- Teach BB over RTL
+- Return
+	- Quick Attack 6-8[12-16]
+- BB
+	- Quick Attack 11-13[22-26]
+	- Spark 25-30 [51-60]
 
 ROUTE 5
 - Cheren 5: BB, BB, BB, BB
