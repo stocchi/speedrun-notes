@@ -1,134 +1,178 @@
-# Black Reversal Sawk Route
-
-*This* is stuff about my seed, if you struggle to find yours ask for help in the DS Discord / DM me
-
+# Sawk Black Notes / Guide
 route by scoagogo, Cr1tikalSimp and me
 
-Glossary: TL-> Tackle, VW-> Vine Whip, TD-> Take Down, DK->Double Kick, LS->Low Sweep, RTL-> Retaliate, WU->Work Up, BB-> Brick Break, CC-> Close Combat
+#### Glossary:
+*Italic* is stuff about my seed, if you struggle to find yours ask for help in the DS Discord / DM me
+- TL-> Tackle
+- VW-> Vine Whip
+- TD-> Take Down
+- DK->Double Kick
+- LS->Low Sweep
+- RTL-> Retaliate
+- WU->Work Up
+- BB-> Brick Break
+- CC-> Close Combat
 
-Manip Snivy 30+ Attack, no negative Speed or Attack
+#### Intro
+- Manip Snivy 30+ Attack, no negative Speed or Attack
+
 *2F39086ADAA10E65	11	14	31	2	15	2	5	04/06/1948 20:07:26	C7C	None*
 
-NUVEMA TOWN:
+#### Nuvema Town:
 - Bianca 1: TK x4
 - Cheren 1: Leer + TK x3
 
-ACCUMULA TOWN:
+#### Accumula Town:
 - Buy: Potion(4) [DLU]
 - N 1: Leer + TK x3-x4
 	- *Scratch: 3(4)*
 
-ROUTE 2:
+#### Route 2:
 - Manip Lv7 Adamant Lillipup, either ability works, 30+/30+/30+/x/30+/20+
   - Can be more lenient with defensive stats, especially Special Defense (can even take Naughty)
-*B6B4B311D41F5C1B 1 31 31 31 10 29 31 Electric 49 04/06/48 20:21:05 C7C Start-Right-Y*
-	- Redo calcs with new snivy
-	- 43.8% from full
-	- 61.2% after 1 VWs (66% if high roll)
-	- 76.7% after 2 VWs
-	- 91.5% after 3 VWs
-- Youngster Jimmy: TK x3
+
+*B6B4B311D41F5C1B 1 31 31 31 10 29 31 Electric 49 04/06/48 20:21:05 C7C Start-Right-Y
+
+Youngster Jimmy:
+- TK x3
 	- TK x2 [1/256]
 	- Tackle: 6(7)
-- Bianca 2: Leer + TK, TK x2
-	- Bite Oshawott if high roll
+
+Bianca 2:
+- Leer + TK
 	- Tackle: 6(7)
+- TK x2
+	- Bite Oshawott if high roll
 	- Water Gun: 4(6), Tackle @-1: 5(6)
-- Potion if 12-
+
+Potion if 12-
 
 *Breeder: U, Bald Guy: D as you enter the door*
 
-STRIATON CITY:
-- Cheren 2: TK + Leer + TK, TK x2
+#### Striaton City:
+Cheren 2:
+- TK + Leer + TK
 	- Ember: 6(7)
+-  TK x2
 	- Scratch: 3(4), Growl
+
 *exiting school, first 2 NPCs you see L*
 
-- Waiter Maxwell: BT x2 + TK
+-Waiter Maxwell:
+- BT x2 + TK
 	- Tackle: (7)9(10)
-- Waitress Tia: TK x2, TK x2
+
+Waitress Tia:
+- TK x2
 	- Tackle: (7)9(10)
+- TK x2
 	- Scratch: 4(5)
-- Leader Chilli: BT x3, Leer + TK x2
+
+Leader Chilli:
+- BT x3
 	- Turn 1 high roll: Leer + TK
 	- Bite: 7-8(9), +1: 11-12(13)
+- Leer + TK x2
 	- Incinerate: 7(9), +1: 9-10(12), +2: 12-13(15) TODO: check this
+
 *Breeder: D*
+
 - Menu:
 	- Fresh Water if below half
 	- Teach Cut(Snivy)
 - Pick Up Dusk Ball
-*Breeder: d, Lass: l, after getting dusk ball Lass: d*
-  - *if she does d-u-d, congrats idiot*
 
-DREAMYARD:
+*Breeder: d, Lass: l, after getting dusk ball Lass: d*
+*if she does d-u-d, you bonked*
+
+#### Dreamyard:
 - Lass Eri: TK, TK
 - Plasma Grunt 1: BT x2
 	- Tackle: 7(9)
 - Plasma Grunt 2: TK x2
- *Lass: d, Breeder: r->U*
 
-STRIATON CITY:
-*Breeder d->R, Boy d->L*
-  - *must turn up right before bonking fountain, then left at old man*
+*Lass: d, Breeder: r->U*
+
+#### Striaton City:
+*Breeder d->R, Boy d->L, must turn up right before bonking fountain, then left at old man*
 - (NO EXTENDED) Buy:
 	- Repel(3)
 	- Super Potion(5)
 	- Antidote(3)
 
-ROUTE 3:
-- Twins: TK + VW, (TK Snivy + Heal skip this if unsure what you are doing), TD{TODO: check this} (TK [11/16])
+#### Route 3:
+Twins:
+- TK + VW left,
 	- Teach Take Down(Oder Sleuth)
-- Cheren 3: TK + TD{TODO: check this}, TD{TODO: check this}
+- TK Snivy + Heal
+	- skip this if unsure what you are doing)
+- TD{TODO: check this} (TK [11/16])
+
+Cheren 3:
+- TK + TD{TODO: check this}
 	- Leer if Defense Curl TODO: check this
 	- Ember: 6(7), Blaze Ember: (7)9(10)
+- TD{TODO: check this}
 
-WELLSPRING CAVE:
-*Manipulate Swoobat. Tackle + throw balls*
+
+#### Wellspring Cave:
+Catch a Swoobat. Tackle + throw balls
+
+*Lv10 Swoobat first tile entering*
+
 - Plasma Grunt: TD{8}
 	- Bite: (5)6(7)
 	- Stop evolution
-- Plasma Double: TD left{8} , TD {8} / TK [1/16]
+
+Plasma Double:
+- TD left{8}
 	- Take Down right turn 2 if Tepig didn't attack
-	- (left) Bite: 4(5) TODO: check this
-	- (right) Bite: 5(6)
+	- (right) Bite: 5(6) TODO: check this
+- TD {8} / TK [1/16]
+
 *normal movement up to dark grass: after Cheren cutscene, walk until grass then run down, right at RC row. Run left until last column then down. Pass the trainer down*
 
-NACRENE CITY:
+#### Nacrene City:
 - (EXTENDED) Buy:
 	- Repel(2)
 	- Super Potion(5) TODO: check if can afford another one
 	- Antidote(3)
 
 Optional: grab the hidden Ultra Ball near the cafè
+
 *TODO: check stepcount*
 
 Enter the house left to the center
-- Buy 1
+- Buy
   - XSpeed(1)
   - XAttack(10)
   - Guard Spec(1)
 
-Manip
-- Lv15 adamant Sawk holding a black belt
-  - check RNG researcher, /656 must be 50-54
+Manip:
+- Lv15 adamant Sawk
+	- encounter slot 9,11
+- holding a black belt
+  - check RNG researcher, gen5RNG, 5 frame later than sawk encounter /656 must be 50-54
 - during night
   - 19:00-7:00
 - 31/30+/29+/x/29+/31
   - 29-30 speedties Worker Arnold's Swoobat, 26-28 is slower than it. Thats the only speedcheck difference to 31IV
-- PIDRNG frames around ~80-160, Possible IVRNG frames:
+- PIDRNG frames around ~80-160
+- Possible IVRNG frames:
   - 1: any pokemon count, be aware of stepcount.
   - 2: Deposit every pokemon but swoobat (Lillupup if caught pidove, but is super yolo) before s+q
   - 3: extend a pidove after catching Sawk. Deposit alive HM friends after Sawk manip
   - 4: get a flier before s+q. Deposit alive HM friends after Sawk manip
+
 *B6B4B311D41F5C1B 1 31 31 31 10 29 31 Electric 49 04/06/48 20:21:05 C7C Start-Right-Y*
 
 Weaken it (Take Down{TODO}/Confusion) and throw Dusk ball, then Ultra Ball/Heal Ball
-  - Cool strat I'm going for since my Sawk is on IVRNG Frame 4: tackle Snivy during Twins' Double, keep Lillipup HP low (<10) during Cave. Suicide Lillipup with Take Down on Sawk, catch it with Swoobat so you dont have to deposit any slave
 
-Grab ether on the right
-If more than 1 HM friends is in your party and alive, go back to center , pc heal sawk and deposit slaves
-	- if not, swap Sawk
+*Cool strat I'm going for since my Sawk is on IVRNG Frame 4: tackle Snivy during Twins' Double, keep Lillipup HP low (<10) during Cave. Suicide Lillipup with Take Down on Sawk, catch it with Swoobat so you dont have to deposit any slave*
+
+- Grab ether on the right
+- If more than 1 HM friends is in your party and alive, go back to center , pc heal sawk and deposit slaves
+	- if not, swap Sawk in front
 
 Pokémon Trainer N: DK, DK, DK (37,5%)
 
@@ -429,13 +473,17 @@ Riskier E4 (dead run if SpecDef drop turn1)
  	- Bulldoze
 
 N'S CASTLE
-- Team Plasma N:
-Dragon Breath x2, Slash Carracosta and switch to Sawk, CCx5
 
-- Team Plasma Ghetsis:
-Fusion Flare x2, switch to Sawk CCx5
-- Reversal Bouffalant at 66- (requires Head Smash crit)
-- Reversal Hydreigon at 66- (requires Head Smash crit)
-- Reversal Eelektross at 39- (requires Head Smash crit)
-- Reversal Seismitoad at 39- (requires Head Smash crit)
-- Reversal Bisharp at 131- (requires to get hit)
+Team Plasma N:
+- Dragon Breath x2
+- Slash Carracosta
+- switch to Sawk
+- CCx5
+
+Team Plasma Ghetsis:
+- Fusion Flare x2
+- switch to Sawk
+- CCx5 or Reversal:
+	- Bouffalant and Hydreigon  at 66-
+	- Eelektross and Seismitoad  at 39-
+	- Bisharp at 131-
