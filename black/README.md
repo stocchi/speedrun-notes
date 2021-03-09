@@ -16,7 +16,7 @@ route by scoagogo, Cr1tikalSimp and me
 #### Intro
 - Manip Snivy 30+ Attack, no negative Speed or Attack
 
-*2F39086ADAA10E65	11	14	31	2	15	2	5	04/06/1948 20:07:26	C7C	None*
+*naive FRAME: 81 8F0F29419989696E	11	26	30	21	28	17	29	Grass	31	04/06/48 20:07:38	C7C	A-X-Y	*
 
 #### Nuvema Town:
 - Bianca 1: TK x4
