@@ -14,9 +14,12 @@ route by scoagogo, Cr1tikalSimp and me
 - CC-> Close Combat
 
 #### Intro
-- Manip Snivy 30+ Attack, no negative Speed or Attack
+- Manip Snivy 30+ Attack, no negative Speed/Attack(/Defense)
+	- 24+ Jolly/Naive speedtie N's Purrlion
 
-*naive FRAME: 81 8F0F29419989696E	11	26	30	21	28	17	29	Grass	31	04/06/48 20:07:38	C7C	A-X-Y	*
+*Insert GBA Cart*
+
+*naive FRAME: 81 8F0F29419989696E	11	26	30	21	28	17	29	Grass	31	04/06/48 20:07:38	C7C	A-X-Y*
 
 #### Nuvema Town:
 - Bianca 1: TK x4
@@ -31,7 +34,9 @@ route by scoagogo, Cr1tikalSimp and me
 - Manip Lv7 Adamant Lillipup, either ability works, 30+/30+/30+/x/30+/20+
   - Can be more lenient with defensive stats, especially Special Defense (can even take Naughty)
 
-*B6B4B311D41F5C1B 1 31 31 31 10 29 31 Electric 49 04/06/48 20:21:05 C7C Start-Right-Y
+*Remove GBA Cart*
+
+*adamant FRAME: 105 B6B4B311D41F5C1B 1 31 31 31 10 29 31 Electric 49 04/06/48 20:21:05 C7C Start-Right-Y*
 
 Youngster Jimmy:
 - TK x3
@@ -45,11 +50,11 @@ Bianca 2:
 	- Bite Oshawott if high roll
 	- Water Gun: 4(6), Tackle @-1: 5(6)
 
-Potion if 12-
-
 *Breeder: U, Bald Guy: D as you enter the door*
 
 #### Striaton City:
+Potion if 12-
+
 Cheren 2:
 - TK + Leer + TK
 	- Ember: 6(7)
@@ -73,17 +78,20 @@ Leader Chilli:
 	- Turn 1 high roll: Leer + TK
 	- Bite: 7-8(9), +1: 11-12(13)
 - Leer + TK x2
-	- Incinerate: 7(9), +1: 9-10(12), +2: 12-13(15) TODO: check this
+	- Incinerate: 7(9)
+	- +1: 9-10(12)
+	- +2: 12-13(15)
 
 *Breeder: D*
 
 - Menu:
 	- Fresh Water if below half
 	- Teach Cut(Snivy)
+
+*Breeder: d, Lass: l*
 - Pick Up Dusk Ball
 
-*Breeder: d, Lass: l, after getting dusk ball Lass: d*
-*if she does d-u-d, you bonked*
+*Lass: d, if she does d-u-d, you bonked*
 
 #### Dreamyard:
 - Lass Eri: TK, TK
@@ -105,7 +113,8 @@ Twins:
 - TK + VW left,
 	- Teach Take Down(Oder Sleuth)
 - TK Snivy + Heal
-	- skip this if unsure what you are doing)
+	- skip this if depositing HM friends
+	- if unsure, skip it
 - TD{TODO: check this} (TK [11/16])
 
 Cheren 3:
@@ -155,7 +164,9 @@ Manip:
   - check RNG researcher, gen5RNG, 5 frame later than sawk encounter /656 must be 50-54
 - during night
   - 19:00-7:00
-- 31/30+/29+/x/29+/31
+- winter
+	- Month: 4-8-12
+- stats: 31/30+/29+/x/29+/31
   - 29-30 speedties Worker Arnold's Swoobat, 26-28 is slower than it. Thats the only speedcheck difference to 31IV
 - PIDRNG frames around ~80-160
 - Possible IVRNG frames:
@@ -164,11 +175,11 @@ Manip:
   - 3: extend a pidove after catching Sawk. Deposit alive HM friends after Sawk manip
   - 4: get a flier before s+q. Deposit alive HM friends after Sawk manip
 
-*B6B4B311D41F5C1B 1 31 31 31 10 29 31 Electric 49 04/06/48 20:21:05 C7C Start-Right-Y*
+*adamant FRAME: 105 B6B4B311D41F5C1B 1 31 31 31 10 29 31 Electric 49 04/06/48 20:21:05 C7C Start-Right-Y*
 
 Weaken it (Take Down{TODO}/Confusion) and throw Dusk ball, then Ultra Ball/Heal Ball
 
-*Cool strat I'm going for since my Sawk is on IVRNG Frame 4: tackle Snivy during Twins' Double, keep Lillipup HP low (<10) during Cave. Suicide Lillipup with Take Down on Sawk, catch it with Swoobat so you dont have to deposit any slave*
+*Cool strat I'm going for IVRNG frame 1 and 4: tackle Snivy during Twins' Double, keep Lillipup HP low (<10) during Cave. Suicide Lillipup with Take Down on Sawk, catch it with Swoobat so you dont have to deposit any slave*
 
 - Grab ether on the right
 - If more than 1 HM friends is in your party and alive, go back to center , pc heal sawk and deposit slaves
@@ -183,7 +194,8 @@ Pokémon Trainer N: DK, DK, DK (37,5%)
 	- Teach LS over Focus Energy
 
 - School Kid Lydia: LS, LS, LS
-- If no HM friend alive, Teach Work Up over Leer if havent done before and heal if in Take Down range
+
+If no HM friend alive, Teach Work Up over Leer if havent done before and heal if in Take Down range
 
 
 - Leader Lenora: WU+LS,LS
@@ -194,11 +206,13 @@ Pokémon Trainer N: DK, DK, DK (37,5%)
 #### Pinwheel Forest:
 
 - Team Plasma Grunt: LS
-	- Repel and teach Retaliate over Bide, teach Work Up over Leer if haven't done before
--Team Plasma Grunt: LS
--Pokémon Ranger Audra: LS
--Team Plasma Grunt: LS
--Team Plasma Grunt: DK, DK, DK
+
+Repel and teach Retaliate over Bide, teach Work Up over Leer if haven't done before
+
+- Team Plasma Grunt: LS
+- Pokémon Ranger Audra: LS
+- Team Plasma Grunt: LS
+- Team Plasma Grunt: DK, DK, DK
 
 #### Castelia City:
 - Team Plasma Grunt: LS, LS
@@ -235,19 +249,19 @@ Pokémon Trainer Cheren:
 	- Air Cutter 22-27[44-54]
 	- Quick Attack 8-10[16-20]
 - LS
-	- never DK Pignite, it will proc the berry
+	- never DK Pignite, it has a berry
 - DK
 - DK
 
 ####  Nimbasa City:
 
-- Team Plasma Grunt: DK, RTL(DK+DK if out of RTL PP)
+- Team Plasma Grunt: DK, RTL(DK+DK if out of PP)
 - Register Bike, use it from menu, bike to center.
 - Buy
  	- Return
 	- 4 Paralyze Heals
 	- Max Hyper Potion
-- PC Heal Sawk, Withdraw/Heal flier
+- PC Heal Sawk, Withdraw flier
 
 Team Plasma N:
 - WU+WU+LS
@@ -284,36 +298,42 @@ Leader Elesa:
 	- Quick Attack 11-13[22-26]
 	- Spark 25-30 [51-60]
 
-ROUTE 5
+####  Route 5
+
 - Cheren 5: BB, BB, BB, BB
 	- Quick Attack 11-13[22-26]
 	- Fake Out 10-12[20-24]
-
 - Preschoolers: BBx2
 
-COLD STORAGE
+####  Cold Storage
 - Grunt 1: BBx2
 - Grunt 2: Return
 	- Fake Out 11-13[22-26]
 - Grunt 3: Return
 - Grunt 4: Return, BB
 
-DRIFTVEIL GYM
+####  Driftveil Gym
 - Worker 1: BB, DK
 - Worker 2: BB
 - Worker 3: DK
 - Clay: BB, BB, BB
 
-Buy 11 max repels, 11 hyper potions
+Buy:
+- Max repels(11)
+- Hyper Potion(Max)
 
-ROUTE 6
-Rival 12/Bianca 4: WUx3, DK, Return, DK, DK
+####  Route 6
+Rival 12/Bianca 4:
+- WUx3, DK
 	- Take Down 22-27(44-54)
-	 - +1 33-39(66-78)
-	 - +2 43-51(86-102)
-	 - +3 53-63(106-126)
+	- +1 33-39(66-78)
+	- +2 43-51(86-102)
+	- +3 53-63(106-126)
+- Return
+- DK
+- DK
 
-CHARGESTONE CAVE
+####  Chargestone Cave
 - Get Elixir
 - On Max Repel menu, equip Lucky Egg
 - Grunt 1: Return, Return, DK
@@ -327,14 +347,15 @@ CHARGESTONE CAVE
 - Grunt 7: Return, DK
 - Rival 13/N4: DK, Return, BB, DK
 
-ROUTE 7
+####  Route 7
 - Max Repel and Elixir, teach Fly
+	- heal to full if in range of Air Slash Crit from second Pilot (80-96)
 
-CELESTIAL TOWER
+####  Celestial Tower
 - Psychic: WU, Return x3
 - Fly to Mistralton
 
-MISTRALTON CITY GYM
+####  Mistralton City Gym
 - Worker: BB x2
 - Pilot: Return x3
 	- Air Cutter 30-36[60-72]
@@ -347,17 +368,18 @@ MISTRALTON CITY GYM
 	- Acrobatics 36-44[110-132]
 	- Quick Attack 15-18[30-36]
 
-ROUTE 7
-- Max Repel before the last grass patch, heal out of Air Slash crit range (1/4 to crit)
-- Rival 14/Cheren 6: XAtk, BB, DK, DK, DK
-	- Air Slash 44-54[90-108] Super Luck and Scope Lens
- 	- Fake Out 15-18[30-36]
+####  Route 7
+Max Repel before the last grass patch, heal out of Air Slash crit range (1/4 to crit)
 
-TWIST MOUNTAIN
+- Rival 14/Cheren 6: XAtk, BB, DK, DK, DK
+	- Air Slash 44-54[90-108]
+	- Fake Out 15-18[30-36]
+
+####  Twist Mountain
 - Hiker: DKx3
 	- Rock Slide 6-8[13-16]
 
-ICCIRUS CITY
+####  Iccirus City
 - Black Belt Grant: Return, DK, Return
 - Battle Girl Miriam: DK
 - Black Belt Kendrew: Return
@@ -365,134 +387,170 @@ ICCIRUS CITY
 - Battle Girl Chandra: DK, DK
 - Leader Brycen: BB, BB, DK
 
-DRAGONSPIRAL TOWER
-- Max Repel after Cutscene
-- BB until 4 PP, then switch do DK (use return PP on liepards if any are left)
-- Grunt 1: BB
-- Grunt 2: BB
-- Grunt 3: BB
-- Grunt 4: BB x2
-- Team Plasma Grunt: BB x3
-- teach CC over DK
-- If out of BB PP, use CC
+####  Dragonspiral Tower
+- Max Repel
+- BB until 4 PP, Return until 1 PP, then switch to DK
+- Grunt 1: DK
+- Grunt 2: DK
+- Grunt 3: DK
+- Grunt 4: DK x2
+- Team Plasma Grunt: DK x3
 - Team Plasma Grunt: DK, BB
+	- teach CC over DK
+	- If out of BB PP, use CC
 - Team Plasma Grunt: BB
 - Team Plasma Grunt: Return, BB
 - Team Plasma Grunt: BB
 
-RELIC CASTLE
+#### Relic Castle
 - Max Repel and Max Elixir before Sand
-- Grunt 1: Return, Return, Return
-- Grunt 2: Return, Return
-- Grunt 3: Return
-- Grunt 4: Return
-- Grunt 5: Return, Return, Return
-- Grunt 6: Return, Return
-- Grunt 7: Return, Return
+- Return everything (14 total)
 
-ROUTE 8
-- Pokémon Trainer Bianca: XAtk x3, Return, Return, Return, Return
+#### Route 8
+Pokémon Trainer Bianca:
+- XAtk x3, Return, Return, Return, Return
 	- Stoutland's RTL 20-25[50-60]
 	 - +1 38-45[76-90]
 	 - +2 49-58[98-116]
 	 - +3 62-73[124-146]
 	- Samurott's Aqua Jet: 19-22[38-44]
-
 - Teach Reversal over Return
 
-OPELUCID GYM
-
+#### Opelucid Gym
 - Ace Trainer Webster: BB
 - Ace Trainer Olwen: BB
 - Ace Trainer Jose: BB x2
 - Ace Trainer Clara: BB
-- Veteran Hugo: CC (Rough Skin does 20)
-- Ace Trainer Tom: BB, BB, BB (Rough skin does 20)
-- Ace Trainer Dara: BB , CC Reversal if HP 33-
+- Veteran Hugo: CC
+	- Rough Skin does 20
+- Ace Trainer Tom: BB, BB, BB
+	- Rough skin does 20
+- Ace Trainer Dara: BB , CC
+	- Rough skin does 20
+	- Replace CC with Reversal if HP 33-
 - Veteran Kim: BB x2
-- Leader Drayden: BB, CC (Rough skin does 20), CC, Reversal if HP -34 (both)
+- Leader Drayden: BB, CC, CC
+	- Rough skin does 20
+	- Replace both CC with Reversal if HP 34-
 
-ROUTE 10
+#### Route 10
 - Max Repel
 If in range of Air Slash crit but non crit, heal to full
 
-- Pokémon Trainer Cheren:
+Pokémon Trainer Cheren:
 
-HP>108 (you dont have enough xattacks for this unless you bought 10):
-XAtk, BB, CC (Reversal if 59-HP), BB, Reversal
-	- Air Slash 48-56[96-114]
-	- Flamethrower 46-55[93-111]
-
-HP>34: Endure, Reversal, CC (if HP<18, Reversal) , Reversal, Reversal
-
-HP<35: Reversal, CC (if HP<18, Reversal) , Reversal, Reversal
+| HP  | >108 | >34 | >18 | 18- |
+| --- | ---- | --- | --- | --- |
+| Unfezant  | XAtk+BB  | Endure, -> | Reversal | Reversal |
+| Emboar  | CC |  | CC | Reversal
+| Simisage | BB |  | Reversal | Reversal
+| Liepard |  Reversal | |  Reversal | Reversal |
 
 
-VICTORY ROAD
+#### Victory Road
 - Ace Trainer Shanta: CC, BB
 	- 24-30[50-60]
 
-ELITE FOUR
-- Elite Four Grimsley: BB, BB, BB, BB
+#### E4+N's Castle (slightly safer)
+**Elite Four Grimsley**: BB, BB, BB, BB
 
-- Give Black Belt, Rare Candy, heal if below 153
+Menu:
+- Give Black Belt
+- Rare Candy
+- heal to near full (TODO: check this, should be 153 or higher)
 
-- Elite Four Caitlin: XAtk, CC, Endure, Reversal, Reversal, Reversal
-- Elite Four Marshall: Reversal, Reversal, Reversal, Heal+Reversal+BB
+**Elite Four Caitlin**:
+-  XAtk + CC
+	- can Reversal Reuniclus and skip Endure at 7HP or lower
+- Endure + Reversal
+	- if Charge Beam miss on Endure turn, heal to full and Endure again
+- Reversal
+- Reversal
 
-- Teach Bulldoze over Endure, heal to full (top2 riskier fight in the game, save for safety),
-- Elite Four Shauntal:
-	- XAtk, Bulldoze, XAtk, Bulldoze,
-	- Psychic 62-74[124-148] at +0, 91-108 at -1
+**Elite Four Marshall**: Reversal, Reversal, Reversal, Heal+Reversal+BB
+
+Menu:
+- Teach Bulldoze over Endure
+- heal to full
+	- safety save
+
+**Elite Four Shauntal**:
+- XAtk, Bulldoze, XAtk, Bulldoze,
+	- Psychic 62-74[124-148]
+		- 91-108 at -1
 	- Burn Dmg 22
-		- if you get Special Defense drop turn 1, sack flier
-		- if you get Special Defense drop turn 2+, Bulldoze again and finish the setup on Golurk
-		- if you get Burn turn 1, Bulldoze anyway but setup to +3 instead
-		- if you get Burn at +2 and you are not in range of Psychic+Burn Dmg(86 max), set up the 3rd XAtk and then full restore+sweep
-		- if 1st bulldoze crits, Bulldoze Chandelure at +1 and setup 2 XAtk at Golurk
-	- Bulldoze
-	- XAtk, Bulldoze
+	- if you get Special Defense drop turn 1, sack flier
+		- if you dont have 3 more XAtk, only setup 1 and Bulldoze everything twice
+	- if you get Special Defense drop turn 2+, Bulldoze again and finish the setup on Golurk
+	- if you get Burn turn 1, Bulldoze anyway but setup to +3 instead
+	- if you get Burn at +2 and you are not in range of Psychic+Burn Dmg(86 max), set up the 3rd XAtk and then full restore+sweep
+	- if 1st bulldoze crits, Bulldoze Chandelure at +1 and setup 2 XAtk at Golurk
+		- or just 2shot last 2 pokes
+- Bulldoze
+- XAtk + Bulldoze
 	- Earthquake 63-75[127-150]
- 	- Bulldoze
+- Bulldoze
 
-N'S CASTLE
-- Team Plasma N:
-Dragon Breath x2, Slash Carracosta and switch to Sawk, BBx5
+**Team Plasma N**:
+- Dragon Breath x2
+- Slash Carracosta
+- switch to Sawk
+- BBx4
+- CC
 
-- Team Plasma Ghetsis:
-Fusion Flare x2, switch to Sawk BB, BB, CC, CC, BB
+**Team Plasma Ghetsis**:
+- Fusion Flare x2
+- switch to Sawk
+- BB
+- BB
+- CC
+	- Reversal  at 39-
+- CC
+	- Reversal  at 39-
+- BB
 
 
-Riskier E4 (dead run if SpecDef drop turn1)
-- Give Black Belt, Rare Candy, Teach Bulldoze over Brick Break, heal if below 153
 
-- Elite Four Caitlin: XAtk, CC, Endure, Reversal, Reversal, Reversal
+#### E4+N's Castle (slightly riskier)
+**Elite Four Grimsley**: BB, BB, BB, BB
+
+Menu:
+- Give Black Belt
+- Rare Candy
+- Teach Bulldoze over Brick Break
+- heal to near full (TODO: check this, should be 153 or higher)
+
+**Elite Four Caitlin**:
+- XAtk, CC, Endure, Reversal, Reversal, Reversal
   - can Reversal Reuniclus and skip Endure at 7HP or lower
   - if Charge Beam miss on Endure turn, heal to full and Endure again
-- Elite Four Marshall: Reversal, Reversal, Reversal, Bulldoze+Bulldoze (take the death and max revive)
-- Elite Four Shauntal:
-	- XAtk, Bulldoze, XAtk, Bulldoze,
-	- Psychic 62-74[124-148] at +0, 91-108 at -1
+
+**Elite Four Marshall**: Reversal, Reversal, Reversal, Bulldoze+Bulldoze (take the death and max revive)
+
+**Elite Four Shauntal**:
+- XAtk, Bulldoze, XAtk, Bulldoze,
+	- Psychic 62-74[124-148]
+		- 91-108 at -1
 	- Burn Dmg 22
-		- if you get Special Defense drop turn 1, you are fucked
-		- if you get Special Defense drop turn 2+, Bulldoze again and finish the setup on Golurk
-		- if you get Burn turn 1, Bulldoze anyway but setup to +3 instead
-		- if you get Burn at +2 and you are not in range of Psychic+Burn Dmg(86 max), set up the 3rd XAtk and then full restore+sweep
-		- if 1st bulldoze crits, Bulldoze Chandelure at +1 and setup 2 XAtk at Golurk
-	- Bulldoze
-	- XAtk, Bulldoze
+	- if you get Special Defense drop turn 1, improvise
+	 	- probably a death
+	- if you get Special Defense drop turn 2+, Bulldoze again and finish the setup on Golurk
+	- if you get Burn turn 1, Bulldoze anyway but setup to +3 instead
+	- if you get Burn at +2 and you are not in range of Psychic+Burn Dmg(86 max), set up the 3rd XAtk and then full restore+sweep
+	- if 1st bulldoze crits, Bulldoze Chandelure at +1 and setup 2 XAtk at Golurk
+		- or just 2shot last 2 pokes
+- Bulldoze
+- XAtk + Bulldoze
 	- Earthquake 63-75[127-150]
- 	- Bulldoze
+- Bulldoze
 
-N'S CASTLE
-
-Team Plasma N:
+**Team Plasma N**:
 - Dragon Breath x2
 - Slash Carracosta
 - switch to Sawk
 - CCx5
 
-Team Plasma Ghetsis:
+**Team Plasma Ghetsis**:
 - Fusion Flare x2
 - switch to Sawk
 - CCx5 or Reversal:
