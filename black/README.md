@@ -15,7 +15,7 @@ route by scoagogo, Cr1tikalSimp and me
 
 #### Intro
 - Manip Snivy 30+ Attack, no negative Speed/Attack(/Defense)
-	- 24+ Jolly/Naive speedtie N's Purrlion
+	- 24+ Jolly/Naive is preferred as it speedties N's Purrlion
 
 *Insert GBA Cart*
 
@@ -91,7 +91,7 @@ Leader Chilli:
 *Breeder: d, Lass: l*
 - Pick Up Dusk Ball
 
-*Lass: d, if she does d-u-d, you bonked*
+*Lass: d, if she does d-u-d, too slow*
 
 #### Dreamyard:
 - Lass Eri: TK, TK
@@ -103,6 +103,9 @@ Leader Chilli:
 
 #### Striaton City:
 *Breeder d->R, Boy d->L, must turn up right before bonking fountain, then left at old man*
+
+*slow dusk ball: Breeder d->L, Boy d->R*
+twins 01527287
 - (NO EXTENDED) Buy:
 	- Repel(3)
 	- Super Potion(5)
@@ -123,6 +126,7 @@ Cheren 3:
 	- Ember: 6(7), Blaze Ember: (7)9(10)
 - TD{TODO: check this}
 
+*slow dusk ball: last column of grass, do all up -1 and then down, lv10 pidove on last grass*
 
 #### Wellspring Cave:
 Catch a Swoobat. Tackle + throw balls
@@ -141,15 +145,17 @@ Plasma Double:
 
 *normal movement up to dark grass: after Cheren cutscene, walk until grass then run down, right at RC row. Run left until last column then down. Pass the trainer down*
 
+*slow dusk ball: before entering first patch of grass, do a quick left down right. after Cheren cutscene, run normally until candy. After candy, run 3 left, walk 2 down, then start running again. walk the last 4 step*
+
 #### Nacrene City:
 - (EXTENDED) Buy:
 	- Repel(2)
-	- Super Potion(5) TODO: check if can afford another one
+	- Super Potion(6)
 	- Antidote(3)
 
 Optional: grab the hidden Ultra Ball near the cafè
 
-*TODO: check stepcount*
+*slow dusk ball can skip ultra ball by taking the 2 extra steps for Cheren cutscene, then entering the Xitems house do full left right left once and save at the last possible tile before exiting (stepcount=0, take an extra steps for safety)*
 
 Enter the house left to the center
 - Buy
@@ -158,7 +164,7 @@ Enter the house left to the center
   - Guard Spec(1)
 
 Manip:
-- Lv15 adamant Sawk
+- Lv15 Adamant Sawk
 	- encounter slot 9,11
 - holding a black belt
   - check RNG researcher, gen5RNG, 5 frame later than sawk encounter /656 must be 50-54
@@ -179,7 +185,7 @@ Manip:
 
 Weaken it (Take Down{TODO}/Confusion) and throw Dusk ball, then Ultra Ball/Heal Ball
 
-*Cool strat I'm going for IVRNG frame 1 and 4: tackle Snivy during Twins' Double, keep Lillipup HP low (<10) during Cave. Suicide Lillipup with Take Down on Sawk, catch it with Swoobat so you dont have to deposit any slave*
+(strat I'm going for IVRNG frame 1 and 4: tackle Snivy during Twins' Double, keep Lillipup HP low (<10) during Cave. Let Lillipup die with Take Down on Sawk, catch it with Swoobat so you dont have to deposit any slave)
 
 - Grab ether on the right
 - If more than 1 HM friends is in your party and alive, go back to center , pc heal sawk and deposit slaves
@@ -192,15 +198,17 @@ Pokémon Trainer N: DK, DK, DK (37,5%)
 - School Kid Carter: DK
 - Scientist Satomi: DK+DK (6,3%)
 	- Teach LS over Focus Energy
-
 - School Kid Lydia: LS, LS, LS
 
-If no HM friend alive, Teach Work Up over Leer if havent done before and heal if in Take Down range
+
+- If no HM friend alive, Teach Work Up over Leer if havent done before and heal if in Take Down range
+ - otherwise swap HM friend in front
 
 
-- Leader Lenora: WU+LS,LS
-	- if HM friend alive in party, swap turn 1, let it die, then LS, LS
-	- Take Down: 24-28[48-57]
+- Leader Lenora:
+	- flier in front: let it die, LS,LS
+	- only Sawk: WU+LS, LS
+		- Take Down: 24-28[48-57]
 
 
 #### Pinwheel Forest:
