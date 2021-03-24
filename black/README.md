@@ -105,7 +105,7 @@ Leader Chilli:
 *Breeder d->R, Boy d->L, must turn up right before bonking fountain, then left at old man*
 
 *slow dusk ball: Breeder d->L, Boy d->R*
-twins 01527287
+
 - (NO EXTENDED) Buy:
 	- Repel(3)
 	- Super Potion(5)
@@ -121,10 +121,10 @@ Twins:
 - TD{TODO: check this} (TK [11/16])
 
 Cheren 3:
-- TK + TD{TODO: check this}
+- TK + TD{6}
 	- Leer if Defense Curl TODO: check this
 	- Ember: 6(7), Blaze Ember: (7)9(10)
-- TD{TODO: check this}
+- TD{8}
 
 *slow dusk ball: last column of grass, do all up -1 and then down, lv10 pidove on last grass*
 
@@ -142,6 +142,7 @@ Plasma Double:
 	- Take Down right turn 2 if Tepig didn't attack
 	- (right) Bite: 5(6) TODO: check this
 - TD {8} / TK [1/16]
+	- {5} if dmgd
 
 *normal movement up to dark grass: after Cheren cutscene, walk until grass then run down, right at RC row. Run left until last column then down. Pass the trainer down*
 
