@@ -36,7 +36,7 @@ route by scoagogo, Cr1tikalSimp and me
 
 *Insert GBA Cart*
 
-*adamant FRAME: 101 F3F5E22282E67441	1	31	30	30	24	28	23	04/06/1948 19:31:45	C84	Start-Right-Y*
+*2EA2B644E703C166	1	31	30	30	23	30	25	Bug	64	04/06/48 21:03:21	C84	Y	*
 
 Youngster Jimmy:
 - TK x3
