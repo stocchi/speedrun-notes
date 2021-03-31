@@ -147,7 +147,11 @@ Plasma Double:
 
 *after pidove, walk 1 step then run all the way*
 
-*repel+pc depositing+right left in the house touching both NPCs gives exactly 0 steps right before exiting*
+*pc depositing: in the house ->right left touching both NPCs gives exactly 0 steps right before exiting*
+
+*pc depositing with ultra ball: no more than 2 extra steps*
+
+*no pc depositing: in the house ->left right left right left touching both NPCs gives exactly 0 steps right before exiting on the most right tile*
 
 #### Nacrene City:
 - (EXTENDED) Buy:
