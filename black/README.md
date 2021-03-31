@@ -51,6 +51,8 @@ Bianca 2:
 	- Water Gun: 4(6), Tackle @-1: 5(6)
 
 #### Striaton City:
+** girl left-up, bald guy left**
+
 Potion if 12-
 
 Cheren 2:
