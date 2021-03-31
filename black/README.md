@@ -17,9 +17,9 @@ route by scoagogo, Cr1tikalSimp and me
 - Manip Snivy 30+ Attack, no negative Speed/Attack(/Defense)
 	- 24+ Jolly/Naive is preferred as it speedties N's Purrlion
 
-*Insert GBA Cart*
+*Remove GBA Cart, offset 860700*
 
-*naive FRAME: 81 8F0F29419989696E	11	26	30	21	28	17	29	Grass	31	04/06/48 20:07:38	C7C	A-X-Y*
+*naive FRAME: 78 BB0998212E97D24A	11	26	31	28	3	7	26	Electric	67	04/06/1948 20:49:57	C7C	A-R*
 
 #### Nuvema Town:
 - Bianca 1: TK x4
@@ -34,9 +34,9 @@ route by scoagogo, Cr1tikalSimp and me
 - Manip Lv7 Adamant Lillipup, either ability works, 30+/30+/30+/x/30+/20+
   - Can be more lenient with defensive stats, especially Special Defense (can even take Naughty)
 
-*Remove GBA Cart*
+*Insert GBA Cart*
 
-*adamant FRAME: 105 B6B4B311D41F5C1B 1 31 31 31 10 29 31 Electric 49 04/06/48 20:21:05 C7C Start-Right-Y*
+*adamant FRAME: 101 F3F5E22282E67441	1	31	30	30	24	28	23	04/06/1948 19:31:45	C84	Start-Right-Y*
 
 Youngster Jimmy:
 - TK x3
@@ -50,8 +50,6 @@ Bianca 2:
 	- Bite Oshawott if high roll
 	- Water Gun: 4(6), Tackle @-1: 5(6)
 
-*Breeder: U, Bald Guy: D as you enter the door*
-
 #### Striaton City:
 Potion if 12-
 
@@ -60,8 +58,6 @@ Cheren 2:
 	- Ember: 6(7)
 -  TK x2
 	- Scratch: 3(4), Growl
-
-*exiting school, first 2 NPCs you see L*
 
 -Waiter Maxwell:
 - BT x2 + TK
@@ -82,16 +78,12 @@ Leader Chilli:
 	- +1: 9-10(12)
 	- +2: 12-13(15)
 
-*Breeder: D*
-
 - Menu:
 	- Fresh Water if below half
 	- Teach Cut(Snivy)
 
-*Breeder: d, Lass: l*
 - Pick Up Dusk Ball
 
-*Lass: d, if she does d-u-d, too slow*
 
 #### Dreamyard:
 - Lass Eri: TK, TK
@@ -99,12 +91,8 @@ Leader Chilli:
 	- Tackle: 7(9)
 - Plasma Grunt 2: TK x2
 
-*Lass: d, Breeder: r->U*
 
 #### Striaton City:
-*Breeder d->R, Boy d->L, must turn up right before bonking fountain, then left at old man*
-
-*slow dusk ball: Breeder d->L, Boy d->R*
 
 - (NO EXTENDED) Buy:
 	- Repel(3)
@@ -126,12 +114,9 @@ Cheren 3:
 	- Ember: 6(7), Blaze Ember: (7)9(10)
 - TD{8}
 
-*slow dusk ball: last column of grass, do all up -1 and then down, lv10 pidove on last grass*
 
 #### Wellspring Cave:
 Catch a Swoobat. Tackle + throw balls
-
-*Lv10 Swoobat first tile entering*
 
 - Plasma Grunt: TD{8}
 	- Bite: (5)6(7)
@@ -144,10 +129,6 @@ Plasma Double:
 - TD {8} / TK [1/16]
 	- {5} if dmgd
 
-*normal movement up to dark grass: after Cheren cutscene, walk until grass then run down, right at RC row. Run left until last column then down. Pass the trainer down*
-
-*slow dusk ball: before entering first patch of grass, do a quick left down right. after Cheren cutscene, run normally until candy. After candy, run 3 left, walk 2 down, then start running again. walk the last 4 step*
-
 #### Nacrene City:
 - (EXTENDED) Buy:
 	- Repel(2)
@@ -155,8 +136,6 @@ Plasma Double:
 	- Antidote(3)
 
 Optional: grab the hidden Ultra Ball near the cafè
-
-*slow dusk ball can skip ultra ball by taking the 2 extra steps for Cheren cutscene, then entering the Xitems house do full left right left once and save at the last possible tile before exiting (stepcount=0, take an extra steps for safety)*
 
 Enter the house left to the center
 - Buy
@@ -181,6 +160,8 @@ Manip:
   - 2: Deposit every pokemon but swoobat (Lillupup if caught pidove, but is super yolo) before s+q
   - 3: extend a pidove after catching Sawk. Deposit alive HM friends after Sawk manip
   - 4: get a flier before s+q. Deposit alive HM friends after Sawk manip
+
+*Remove GBA cart*
 
 *adamant FRAME: 105 B6B4B311D41F5C1B 1 31 31 31 10 29 31 Electric 49 04/06/48 20:21:05 C7C Start-Right-Y*
 
