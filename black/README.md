@@ -51,7 +51,7 @@ Bianca 2:
 	- Water Gun: 4(6), Tackle @-1: 5(6)
 
 #### Striaton City:
-** girl left-up, bald guy left**
+*girl left-up, bald guy left*
 
 Potion if 12-
 
@@ -60,6 +60,8 @@ Cheren 2:
 	- Ember: 6(7)
 -  TK x2
 	- Scratch: 3(4), Growl
+
+*same girl up and left*
 
 -Waiter Maxwell:
 - BT x2 + TK
@@ -86,6 +88,8 @@ Leader Chilli:
 
 - Pick Up Dusk Ball
 
+*post duskball girl: up-left*
+
 
 #### Dreamyard:
 - Lass Eri: TK, TK
@@ -93,6 +97,7 @@ Leader Chilli:
 	- Tackle: 7(9)
 - Plasma Grunt 2: TK x2
 
+*girl inside the house right, then left when exiting*
 
 #### Striaton City:
 
@@ -100,6 +105,8 @@ Leader Chilli:
 	- Repel(3)
 	- Super Potion(5)
 	- Antidote(3)
+
+*up 1 before bonking, left right before bonking on the grass, column left of old guy*
 
 #### Route 3:
 Twins:
@@ -116,9 +123,10 @@ Cheren 3:
 	- Ember: 6(7), Blaze Ember: (7)9(10)
 - TD{8}
 
+*straight then up*
 
 #### Wellspring Cave:
-Catch a Swoobat. Tackle + throw balls
+*leftdownleft*
 
 - Plasma Grunt: TD{8}
 	- Bite: (5)6(7)
@@ -130,6 +138,16 @@ Plasma Double:
 	- (right) Bite: 5(6) TODO: check this
 - TD {8} / TK [1/16]
 	- {5} if dmgd
+
+*exiting cave, all the way down until mid street, then right*
+
+*optimal movement until cheren cutscene*
+
+*run right until first row of trees 1 tile away from you, down then right at candy. run left to get lv13 pidove, tackle then throw heal balls*
+
+*after pidove, walk 1 step then run all the way*
+
+*repel+pc depositing+right left in the house touching both NPCs gives exactly 0 steps right before exiting*
 
 #### Nacrene City:
 - (EXTENDED) Buy:
