@@ -123,9 +123,9 @@ Cheren 3:
 	- Ember: 6(7), Blaze Ember: (7)9(10)
 - TD{8}
 
-*left then head towards the path of grass above cave's entrance. right at the first row, turn up at the second tile of the second tree, 2 tiles up then left, catch lv8 pidove*
+*left then head towards the path of grass above cave's entrance. right at the first row, turn up at the second tile of the second tree, 2 tiles up then left, catch lv8 pidove (tackle)*
 
-*if crit, run 1 tile before cheren and turn right, catch lv10 pidove*
+*if crit, run 1 tile before cheren and turn right, catch lv10 pidove (tackle)*
 
 #### Wellspring Cave:
 *leftdownleft*
