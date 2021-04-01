@@ -123,7 +123,9 @@ Cheren 3:
 	- Ember: 6(7), Blaze Ember: (7)9(10)
 - TD{8}
 
-*straight then up*
+*left then head towards the path of grass above cave's entrance. right at the first row, turn up at the second tile of the second tree, 2 tiles up then left, catch lv8 pidove*
+
+*if crit, run 1 tile before cheren and turn right, catch lv10 pidove*
 
 #### Wellspring Cave:
 *leftdownleft*
@@ -143,15 +145,9 @@ Plasma Double:
 
 *optimal movement until cheren cutscene*
 
-*run right until first row of trees 1 tile away from you, down then right at candy. run left to get lv13 pidove, tackle then throw heal balls*
+*redo this, (run right, before the row of trees walk down 2, run right 1 -> down into the candy. walk run walk idk next*
 
-*after pidove, walk 1 step then run all the way*
-
-*pc depositing: in the house ->right left touching both NPCs gives exactly 0 steps right before exiting*
-
-*pc depositing with ultra ball: no more than 2 extra steps*
-
-*no pc depositing: in the house ->left right left right left touching both NPCs gives exactly 0 steps right before exiting on the most right tile*
+*in the house ->right left touching both NPCs gives exactly 0 steps right before exiting in the last possible tile right*
 
 #### Nacrene City:
 - (EXTENDED) Buy:
