@@ -59,7 +59,7 @@ Bianca 2:
 	- Bite Oshawott if high roll
 	- Water Gun: 4(6), Tackle @-1: 5(6)
 
-*Breeder: U, Bald Guy: D as you enter the door*
+*Breeder: r, Bald Guy: R*
 
 #### Striaton City:
 Potion if 12-
