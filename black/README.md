@@ -36,7 +36,7 @@ route by scoagogo, Cr1tikalSimp and me
 
 *Remove GBA Cart*
 
-*adamant FRAME: 105 B6B4B311D41F5C1B 1 31 31 31 10 29 31 Electric 49 04/06/48 20:21:05 C7C Start-Right-Y*
+*adamant FRAME: 118 A8A95449D1A0F03D	1	26	31	31	12	21	28	Water	34	04/06/1948 22:01:48	C7C	Select-Down*
 
 Youngster Jimmy:
 - TK x3
