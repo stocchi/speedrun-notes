@@ -17,9 +17,9 @@ route by scoagogo, Cr1tikalSimp and me
 - Manip Snivy 30+ Attack, no negative Speed/Attack(/Defense)
 	- 24+ Jolly/Naive is preferred as it speedties N's Purrlion
 
-*Insert GBA Cart*
+*Remove GBA Cart*
 
-*TODO*
+*jolly FRAME: 79 3E74335B7445BE6C	11	28	30	26	16	14	27	Flying	59	04/06/1948 20:30:46	C7C	Select-A-Up*
 
 #### Nuvema Town:
 - Bianca 1: TK x4
@@ -36,7 +36,7 @@ route by scoagogo, Cr1tikalSimp and me
 
 *Insert GBA Cart*
 
-*adamant FRAME: 110 BE421CA3D5FE7456	1	25	31	30	3	21	23	Dragon	49	04/06/1948 20:44	C7D	A-B-Right*
+*adamant FRAME: 110 BE421CA3D5FE7456	1	25	31	30	3	21	23	Dragon	49	04/06/1948 20:44:17	C7D	A-B-Right*
 
 *red->run, yellow->walk*
 
