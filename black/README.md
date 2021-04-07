@@ -20,7 +20,7 @@ route by scoagogo, Cr1tikalSimp and me
 
 *Insert GBA Cart*
 
-*naive FRAME: 81 8F0F29419989696E	11	26	30	21	28	17	29	Grass	31	04/06/48 20:07:38	C7C	A-X-Y*
+*TODO*
 
 #### Nuvema Town:
 - Bianca 1: TK x4
@@ -35,22 +35,18 @@ route by scoagogo, Cr1tikalSimp and me
 - Manip Lv7 Adamant Lillipup, either ability works, 30+/30+/30+/x/30+/20+
   - Can be more lenient with defensive stats, especially Special Defense (can even take Naughty)
 
-*Remove GBA Cart*
+*Insert GBA Cart*
 
-*adamant FRAME: 118 A8A95449D1A0F03D	1	26	31	31	12	21	28	Water	34	04/06/1948 22:01:48	C7C	Select-Down*
+*adamant FRAME: 110 BE421CA3D5FE7456	1	25	31	30	3	21	23	Dragon	49	04/06/1948 20:44	C7D	A-B-Right*
 
-*red->run, yellow->walk, can start walking on row 2-3 will work fine*
+*red->run, yellow->walk*
 
-![Immagine3](https://user-images.githubusercontent.com/39781913/113419623-1a5d5a80-93c8-11eb-869b-18bb96d3d5a5.png)
-![Immagine4](https://user-images.githubusercontent.com/39781913/113419627-1cbfb480-93c8-11eb-9c0c-b0bc8cc35172.png)
+![Immagine](https://user-images.githubusercontent.com/39781913/113826334-5440af00-9782-11eb-8097-39cb48037aa9.png)
 
 Youngster Jimmy:
 - TK x3
 	- TK x2 [1/256]
 	- Tackle: 6(7)
-
-![immagine](https://user-images.githubusercontent.com/39781913/113419111-11b85480-93c7-11eb-8f69-6178b1e55038.png)
-![immagine2](https://user-images.githubusercontent.com/39781913/113419130-1d0b8000-93c7-11eb-8550-c600d84f72f3.png)
 
 Bianca 2:
 - Leer + TK
