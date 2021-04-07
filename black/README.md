@@ -1,4 +1,3 @@
-
 # Sawk Black Notes / Guide
 route by scoagogo, Cr1tikalSimp and me
 
@@ -47,15 +46,19 @@ Youngster Jimmy:
 - TK x3
 	- TK x2 [1/256]
 	- Tackle: 6(7)
+	- 
+![2](https://user-images.githubusercontent.com/39781913/113828254-7b987b80-9784-11eb-9d38-d636a25770d3.png)
+![3](https://user-images.githubusercontent.com/39781913/113828550-d16d2380-9784-11eb-8a1a-d7b63374ea44.png)
 
 Bianca 2:
+
 - Leer + TK
 	- Tackle: 6(7)
 - TK x2
 	- Bite Oshawott if high roll
 	- Water Gun: 4(6), Tackle @-1: 5(6)
 
-*Breeder: r, Bald Guy: R*
+*Breeder: U->L, Bald Guy: L*
 
 #### Striaton City:
 Potion if 12-
@@ -66,7 +69,7 @@ Cheren 2:
 -  TK x2
 	- Scratch: 3(4), Growl
 
-*exiting school, first 2 NPCs you see L*
+*TODO*
 
 -Waiter Maxwell:
 - BT x2 + TK
@@ -87,16 +90,16 @@ Leader Chilli:
 	- +1: 9-10(12)
 	- +2: 12-13(15)
 
-*Breeder: D*
+*TODO*
 
 - Menu:
 	- Fresh Water if below half
 	- Teach Cut(Snivy)
 
-*Breeder: d, Lass: l*
+*TODO*
 - Pick Up Dusk Ball
 
-*Lass: d, if she does d-u-d, too slow*
+*TODO*
 
 #### Dreamyard:
 - Lass Eri: TK, TK
@@ -107,9 +110,7 @@ Leader Chilli:
 *Lass: d, Breeder: r->U*
 
 #### Striaton City:
-*Breeder d->R, Boy d->L, must turn up right before bonking fountain, then left at old man*
-
-*slow dusk ball: Breeder d->L, Boy d->R*
+*TODO*
 
 - (NO EXTENDED) Buy:
 	- Repel(3)
@@ -131,12 +132,11 @@ Cheren 3:
 	- Ember: 6(7), Blaze Ember: (7)9(10)
 - TD{8}
 
-*slow dusk ball: last column of grass, do all up -1 and then down, lv10 pidove on last grass*
+*TODO*
 
 #### Wellspring Cave:
 Catch a Swoobat. Tackle + throw balls
-
-*Lv10 Swoobat first tile entering*
+*TODO*
 
 - Plasma Grunt: TD{8}
 	- Bite: (5)6(7)
@@ -149,9 +149,7 @@ Plasma Double:
 - TD {8} / TK [1/16]
 	- {5} if dmgd
 
-*normal movement up to dark grass: after Cheren cutscene, walk until grass then run down, right at RC row. Run left until last column then down. Pass the trainer down*
-
-*slow dusk ball: before entering first patch of grass, do a quick left down right. after Cheren cutscene, run normally until candy. After candy, run 3 left, walk 2 down, then start running again. walk the last 4 step*
+*TODO*
 
 #### Nacrene City:
 - (EXTENDED) Buy:
@@ -161,8 +159,7 @@ Plasma Double:
 
 Optional: grab the hidden Ultra Ball near the cafè
 
-*slow dusk ball can skip ultra ball by taking the 2 extra steps for Cheren cutscene, then entering the Xitems house do full left right left once and save at the last possible tile before exiting (stepcount=0, take an extra steps for safety)*
-
+*TODO*
 Enter the house left to the center
 - Buy
   - XSpeed(1)
