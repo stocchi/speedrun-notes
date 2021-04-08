@@ -69,7 +69,7 @@ Cheren 2:
 -  TK x2
 	- Scratch: 3(4), Growl
 
-*TODO*
+*breeder l->U*
 
 -Waiter Maxwell:
 - BT x2 + TK
@@ -90,16 +90,15 @@ Leader Chilli:
 	- +1: 9-10(12)
 	- +2: 12-13(15)
 
-*TODO*
+*breeder: d*
 
 - Menu:
 	- Fresh Water if below half
 	- Teach Cut(Snivy)
 
-*TODO*
 - Pick Up Dusk Ball
 
-*TODO*
+*post dusk ball girl: l->r->u 6eab*
 
 #### Dreamyard:
 - Lass Eri: TK, TK
@@ -107,17 +106,19 @@ Leader Chilli:
 	- Tackle: 7(9)
 - Plasma Grunt 2: TK x2
 
-*Lass: d, Breeder: r->U*
+*Breeder: L*
 
 #### Striaton City:
-*TODO*
 
+![13](https://user-images.githubusercontent.com/39781913/114003800-5a0bc280-985e-11eb-819c-3aa05c8f0b21.png)
+![14](https://user-images.githubusercontent.com/39781913/114004008-89baca80-985e-11eb-8140-39bad5361443.png)
 - (NO EXTENDED) Buy:
 	- Repel(3)
 	- Super Potion(5)
 	- Antidote(3)
 
 #### Route 3:
+
 Twins:
 - TK + VW left,
 	- Teach Take Down(Oder Sleuth)
@@ -132,11 +133,7 @@ Cheren 3:
 	- Ember: 6(7), Blaze Ember: (7)9(10)
 - TD{8}
 
-*TODO*
-
 #### Wellspring Cave:
-Catch a Swoobat. Tackle + throw balls
-*TODO*
 
 - Plasma Grunt: TD{8}
 	- Bite: (5)6(7)
@@ -149,7 +146,11 @@ Plasma Double:
 - TD {8} / TK [1/16]
 	- {5} if dmgd
 
-*TODO*
+![15](https://user-images.githubusercontent.com/39781913/114004068-950df600-985e-11eb-9cb0-27d7a96080cf.png)
+![10](https://user-images.githubusercontent.com/39781913/114004089-9808e680-985e-11eb-92d3-15115aff4a62.png)
+![11](https://user-images.githubusercontent.com/39781913/114004111-9dfec780-985e-11eb-9b88-fa459d241adc.png)
+![12](https://user-images.githubusercontent.com/39781913/114004127-a2c37b80-985e-11eb-834b-a9b568866932.png)
+
 
 #### Nacrene City:
 - (EXTENDED) Buy:
@@ -157,9 +158,10 @@ Plasma Double:
 	- Super Potion(6)
 	- Antidote(3)
 
-Optional: grab the hidden Ultra Ball near the cafè
+Optional: grab the hidden Ultra Ball near the cafè (only <16 extra steps)
 
-*TODO*
+*ultra ball skip need to do waste 17 , can be achieved by running left until the green bush then saving at the last possible row center tile*
+
 Enter the house left to the center
 - Buy
   - XSpeed(1)
