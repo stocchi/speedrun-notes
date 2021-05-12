@@ -1,3 +1,4 @@
+
 # Sawk Black Notes / Guide
 route by scoagogo, Cr1tikalSimp and me
 
@@ -36,12 +37,20 @@ route by scoagogo, Cr1tikalSimp and me
 
 *Remove GBA Cart*
 
-*adamant FRAME: 105 B6B4B311D41F5C1B 1 31 31 31 10 29 31 Electric 49 04/06/48 20:21:05 C7C Start-Right-Y*
+*adamant FRAME: 118 A8A95449D1A0F03D	1	26	31	31	12	21	28	Water	34	04/06/1948 22:01:48	C7C	Select-Down*
+
+*red->run, yellow->walk, can start walking on row 2-3 will work fine*
+
+![Immagine3](https://user-images.githubusercontent.com/39781913/113419623-1a5d5a80-93c8-11eb-869b-18bb96d3d5a5.png)
+![Immagine4](https://user-images.githubusercontent.com/39781913/113419627-1cbfb480-93c8-11eb-9c0c-b0bc8cc35172.png)
 
 Youngster Jimmy:
 - TK x3
 	- TK x2 [1/256]
 	- Tackle: 6(7)
+
+![immagine](https://user-images.githubusercontent.com/39781913/113419111-11b85480-93c7-11eb-8f69-6178b1e55038.png)
+![immagine2](https://user-images.githubusercontent.com/39781913/113419130-1d0b8000-93c7-11eb-8550-c600d84f72f3.png)
 
 Bianca 2:
 - Leer + TK
@@ -50,7 +59,7 @@ Bianca 2:
 	- Bite Oshawott if high roll
 	- Water Gun: 4(6), Tackle @-1: 5(6)
 
-*Breeder: U, Bald Guy: D as you enter the door*
+*Breeder: r, Bald Guy: R*
 
 #### Striaton City:
 Potion if 12-
