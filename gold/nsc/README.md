@@ -62,6 +62,25 @@ get the egg
 
 box name: (todo)
 
+1. p 'v , 'v è è 'm 2
+2. p . 9 è d 2 'l 'l
+3. è è 4 5 'l è D 9
+4. è ? 2 'v 9 è ♂ 2
+5. 'v 8 è è 4 'v 't 'l
+6. 'v è è è 4 p 'd 'd
+14. A A A 'm v 2
+
+| BOX | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | NAME |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
+| 1   | ←s←↓A | →↓A | sA | s↑(r)A | →→A | A | →→→(r)A | ←←↓A | p'v,'vèè'm2 |  
+| 2   | ←s←↓A | ↓s(r)A | →sA | ↑(r)A | ↓←(r)→↓(r)A | ↑(r)←↑(r)→A / ↑→(r)←←A | ↑(r)A /→↑(r)A | A | p.9èd2'l'l |
+| 3   | ↓s↓(r)A | A | ↓(r)→ssA / →↓(r)→→A | (r)A | ←↑(r)←A | ←(r)A | ↓s(r)→↓A    | sS↑A | èè45'lèD9 |
+| 5   | S↑s(r)←(r)A | ↓A | →↑←(r)A | A | ↓←(r)→↑A | S↑→(r)←A | (hold←)A | (hold←)ss(r)←A/(or wait 1 scroll before s, then ssA) | 'v8èè4'v't'l |
+| 6   | S↑s(r)←(r)A | →→(r)A | A | A | ↓←(r)→↑A | S↓→←←A | S→↑(r)→↑(r)A | A | 'vèèè4p'd'd |
+| 14  | A | A | A | S←↑sA | (r)A | ←↓(r)←↓A | SA |     | AAA'mv2 |
+
+
+
 
 Route 32:
 
