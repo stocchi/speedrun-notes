@@ -1,203 +1,178 @@
-NSC notes, copy pasted from various sources
+Gold NSC notes, copy pasted from various sources
 
-TID manip (todo: flowtimer) 1 | 12345 | 1 | 1234 <-hit 4, very early imo (todo: find a longer one for better timer0? not 100% it works this way)
+do Trainer ID manipulation: (todo:video)
+gold_gfwait_backout4_wait337(setopt)_backout10_newgame: TID = 0xD900 (55552), LID = 0xD3EC (54252), Offset (wait): 43.297, Offset (NG): 58.32
 
-set options left
+if you want to do totodile or encounterless manips later (they are optionals), Start a timer on TID hard reset and confirm minutes between 1:00.50 and 1:01.50 (todo: this doesnt consider GBP fadeout, check whats the correct time)
 
-(if doing manips, start a timer on TID manip and confirm minutes between 1:00.50 and 1:01.50)
+Set the time to 10:00 AM, name yourself A, say Y/Y/N/Y/Y to the Yes/No textboxes from mom
 
-Set the time to 10:00 AM
-Say Y/Y/N/Y/Y to the Yes/No textboxes from mom
-
-Name you and Toto a one-character name to save time. Don’t nickname HM slaves.
-
-toto manip (https://pastebin.com/GirxGiU9)
+(optional)[toto manip](https://pastebin.com/GirxGiU9)
 The correct stats are 21/13/12/10/11/10. Feel free to take the one frame late too which has 20/12/12/10/11/10.
-Take Totodile’s Berry off (also check stats if you’re not sure you got the good Toto)
 
-r29 manip (https://pastebin.com/bjBqGeCQ)
+Take Totodile’s Berry off, if not manipulating you might want to check stats (12 attack required?)
+
+(optional)[r29 manip](https://pastebin.com/bjBqGeCQ)
 
 Go to Mr. Pokemon
 Kill one Level 2 Pidgey, Level 2 Sentret or Level 3 Caterpie if you encounter one (only on the way to Mr. Pokemon, not worth on way back  since you’ll take damage before the rival fight)
-todo: is this correct for NSC?
+todo: is this correct?
 
-buy 4 potions
+buy 4 potions (skip this if manipped?)
 
-Rival 1:
-Chikorita: Leer, spam Scratch
-go back to the lab
-skip the catching Tutorial
-catch a Sentret
+Rival 1: spam Scratch
 
-Avoid the first trainer through the grass
+go back to the lab, name rival 1 char, skip the catching tutorial
 
-Youngster Mikey:
-          Pidgey: Scratch 2x (or Rage if somehow L7)
-          Rattata: Scratch 3x (or keep Rage)
+(optional)[r29 manip again](https://pastebin.com/bjBqGeCQ)
 
-Put the Berry back on and call Mom (this can be done before Don Manip or on the start buffers while passing Don) (if your HP is 14 or less, also Potion)
+catch a Sentret if you see one (Scratch once, throw balls)
+
+Youngster Mikey: spam Scratch
+
+(optional)[Don Manip](https://pastebin.com/7KdSvbZG)
+
+Put the Berry back on and call Mom (this can be done before Don Manip or on the Start buffers while passing Don) (if your HP is 14 or less, also Potion)
+
 Avoid Spinner Don (rage both Caterpies if you hit)
-Optional: Pick up the Bitterberry and equip it when you heal in Falkner's Gym (Would recommend if you aren’t doing Don Manip)
-Violet Town:
 
+Optional: Pick up the Bitterberry and equip it when you heal in Falkner's Gym (Would recommend if you aren’t doing Don Manip)
+
+Violet Town:
 
 Enter Falkners gym
 
-Bird Keeper Ape:
-             Spearow: Rage spam
+Bird Keeper Ape: Rage spam
 
 Potion if below 10HP
 
-Bird Keeper Rod:
-               Pidgeys: Rage spam
+Bird Keeper Rod: Rage spam
 
 Potion if below 16HP, or if below 19HP if you’re already LVL 10
 
-Gym Leader Falkner:
-           Pidgey: Rage spam
-      Pidgeotto: Rage spam
+Gym Leader Falkner: Rage spam
 
 Enter the Pokemon Center
-get the egg
-
-box name: (todo)
-
-1. p 'v , 'v è è 'm 2
-2. p . 9 è d 2 'l 'l
-3. è è 4 5 'l è D 9
-4. è ? 2 'v 9 è ♂ 2
-5. 'v 8 è è 4 'v 't 'l
-6. 'v è è è 4 p 'd 'd
-14. A A A 'm v 2
+Heal, then get the egg
+(use a potion instead if have cutter already?)
 
 | BOX | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | NAME |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| 1   | ←s←↓A | →↓A | sA | s↑(r)A | →→A | A | →→→(r)A | ←←↓A | p'v,'vèè'm2 |  
-| 2   | ←s←↓A | ↓s(r)A | →sA | ↑(r)A | ↓←(r)→↓(r)A | ↑(r)←↑(r)→A / ↑→(r)←←A | ↑(r)A /→↑(r)A | A | p.9èd2'l'l |
-| 3   | ↓s↓(r)A | A | ↓(r)→ssA / →↓(r)→→A | (r)A | ←↑(r)←A | ←(r)A | ↓s(r)→↓A    | sS↑A | èè45'lèD9 |
-| 4   | ↓s↓A | s→(r)A | sA | S↑→(r)←(r)A | ↓(r)→A | ↑(rel)A | S←↑(r)A | ←sA | è?2'v9è♂2 |
-| 5   | S↑s(r)←(r)A | ↓A | →↑←(r)A | A | ↓←(r)→↑A | S↑→(r)←A | (hold←)A | (hold←)ss(r)←A/(or wait 1 scroll before s, then ssA) | 'v8èè4'v't'l |
-| 6   | S↑s(r)←(r)A | →→(r)A | A | A | ↓←(r)→↑A | S↓→←←A | S→↑(r)→↑(r)A | A | 'vèèè4p'd'd |
-| 14  | A | A | A | S←↑sA | (r)A | ←↓(r)←↓A | SA |     | AAA'mv2 |
-
-
-
+| 1   | s↓↓↓A | ↓↓→↓A | ↑←↑→A | ↑←A | s↓↓→↓A | s↑←↑←A | ↑←A | ←↓A | éd2éD9'v7 |  
+| 2   | s↓↓↓A | s←←←←A | s←←←←A | s↓↓←↓→A | ↑↑←A | s→→A | SA |  | é['dH.9 |
+| 3   | s↓↓↓A | ↑↑↑←←A | ↑→↑↑→A | s↓↓←↓→A | s↑→↑↑A | ↓↓←↓A | ↑→↑↑→A | SA | éh'dHég'd |
+| 4   | s↓↓↓A | s↑↑↑←←A | s↑→↑↑→A | ←←←A | →→A | A | s←↓A | s→→A | éH'd'véé&2 |
+| 5   | ←←A | s↑→↑↑A | s←←←A | s→→→→A | s←←←←A | s→→→A | A | →→→↓A | Hé]'d]éé4 |
+| 6   | s↓↓↓→→A | A | A | A | ←A | SA |  |  | A'l'l'l'l'd |
+| 14  | s←←←↓A | A | A | A | ↓↓↓←←A | ↑←A | ↑A | ←←↓↓A | pppp5'mv2 |
 
 Route 32:
 
 Kill any encounter if you have no extra exp
 
 Youngster Albert:
-Rattata: Rage turn 1, Raging if Tackle, Scratch if TW (Scratch x2 if you don’t have God Toto)
-Zubat: Rage/Scratch
+ -  Rattata: Rage turn 1, Raging if Tackle, Scratch if TW
+    - Scratch x2 if you don’t have God Toto
+ -  Zubat: Rage/Scratch
+
+Fisher Ralph: Leer, Scratch 3x
+
+Hiker Russell:  Water Gun 3x
+
+(optional)[cave encounterless](https://cdn.discordapp.com/attachments/751229264816504932/757277654679289977/uce.png) ->
+[(f 3-5 on Sandshrew Manip)](https://pastebin.com/vuQixFYT)
 
 
-Fisher Ralph:
-              Goldeen: Leer, Scratch 3x
-
-Hiker Russell:
-              Geodudes: Water Gun 3x
-
-cave encounterless (f 3-5 on Sandshrew Manip https://pastebin.com/vuQixFYT)
-https://cdn.discordapp.com/attachments/751229264816504932/757277654679289977/uce.png
-
-Firebreather Ray:
-                  Vulpix: Water Gun, Scratch (Rage if Vulpix is in Redbar)
+Firebreather Ray: Water Gun, Scratch (Rage if Vulpix is in Redbar)
 
 If you get Burned by Ember, pick up and use Hidden Full Heal
 
 Azalea Town/Slowpoke Well:
 
-Avoid Spinner Anthony
-(incase you hit, spam Water Gun)
+Avoid Spinner Anthony (incase you hit, spam Water Gun)
+
 Shop before Kurt if you are below 30HP, if not shop after talking to Kurt
 
-Shopping:
-
-3 Super Potions (3D)
-1 Escape Rope (1D)
-3 Repels (1D)
-3 Antidotes (1D)
-1 Paralyz Heal (1D)
+- 3 Super Potions (3D)
+- 1 Escape Rope (1D)
+- 3 Repels (1D)
+- 3 Antidotes (1D)
+- 1 Paralyz Heal (1D)
 
 go talk to Kurt
 Enter Slowpoke Well
 
-Rocket Grunt #1:
-             Rattatas: spam Water Gun (Scratch instead if you are gonna hit L15 here)
+Rocket Grunt #1: spam Water Gun (Scratch instead if you are gonna hit L15 here)
 
 Heal to 15+ HP
 
 Rocket Grunt #2:
-                 Zubat: Water Gun 2x (Scratch if already L15)
-                 Ekans: Scratch 3x
+- Zubat: Water Gun 2x
+  - Scratch if already L15
+- Ekans: Scratch 3x
 
 Heal to 10+ HP
 
 Rocket Grunt #3:
-               Rattata: Spam Rage (if you don’t get a Rage stack on Rat Water Gun Zubats)
-               Zubats: Spam Rage
+- Rattata: Spam Rage
+  - if you don’t get a Rage stack on Rat Water Gun Zubats
+- Zubats: Spam Rage
 
 Heal to 11+ HP if level up before, 16+HP if didn’t
 
-Rocket Grunt #4:
-               Koffing: Water Gun 3x/4x
+Rocket Grunt #4: Water Gun 3x/4x
 
-Enter Bugsy's Gym (Kurt healed you)
-Fight right Trainer first
+Enter Bugsy's Gym (Kurt healed you), fight right Trainer first
 
 Twins Amy & May:
-                  Ledyba: Scratch 2x
-                  Spinarak: Water Gun 2x
+- Ledyba: Scratch 2x
+- Spinarak: Water Gun 2x
 
-Do not heal if poisoned
-Go left
+Do not heal if poisoned, go left
 
 Bug Catcher Josh:
-                   Paras: Swap Leer to Slot 1, Leer + Scratch x2-3 (use Paralyz Heal turn 3 or                        after fight)
+- Leer + Scratch x2-3
+  - (use Paralyz Heal turn 3 or after fight)
 
 
 If below 30HP: Heal, (heal Poison) when passing Benny
-Avoid Spinner Benny
-(if you hit Benny: Water Gun, Water Gun + Rage, spam Rage)
 
-Gym Leader Bugsy:
-Metapod/Kakuna/Scyther: spam Rage
+Avoid Spinner Benny (if hit: Water Gun, Water Gun + Rage, spam Rage)
+
+Gym Leader Bugsy: spam Rage
 
 Before Rival 2:
-- Use a Super Potion (or Potion if it heals full)
+- Use a Super Potion / Potion if it heals full
 - Repel (1D)
 - (Heal Poison)
 - Teach Fury Cutter over Leer (1L,1D)
 
-   Rival 2:
-    Gastly: Water Gun x2
-  Bayleef: Furry Cutter x3 (+ Scratch)
-     Zubat: (Heal Poison if below half HP) Scratch x2-3 if no Reflect/Growl,
-                 otherwise Water Gun x2-3
+Rival 2:
+- Gastly: Water Gun x2
+- Bayleef: Furry Cutter x3 (+ Scratch)
+- Zubat: (Heal Poison if below half HP) Scratch x2-3 if no Reflect/Growl, otherwise Water Gun x2-3
+
 Ilex Forrest:
 
-Do Farfetch’d Quest (don’t pick up Revive)
+Do Farfetch’d Quest
 Get Cut from the left guy, when repel runs out:
 - Repel (1D if Supers in Slot 1)
-- Teach Cut to Sandshrew (L)
+- Teach Cut to cutter (L)
 
-Exit Ilex Forrest
-Get Kenya
+Exit Ilex Forrest, get Kenya
 
 Enter Underground
 
 Fight Slowpokes: spam fury cutter
 
-Get Coin Case, Equip Berry to Toto, Rope Out
+The coin case glitch requires some specific DVs for the 3rd pokmeon in your party.
+Either Egg or Kenya in 3rd is ~71% to work with random DVs (L6 Bellsprout is 71%*(12/16) to work, L3 Bellsprout never works), if you want to finish the run save before this next section, and if the glitch fails try different pokemons in slot3.
+If it keeps failing, you might have messed up TID/box names, or you got really unlucky
 
-Enter Center, move right and face down:
-Swap Toto with kenya, move left right before stairs
-
-Open pokedex, scroll with right until bellsprout (11?)
-
-open and close coin case
-
-enter end exit stairs
-
-save somewhere?s
+pick up coin case from above (IMPORTANT)
+(Equip Berry to Toto, Swap Toto with kenya) is this still needed?
+walk left 1, up 1, left 2
+Open pokedex, scroll with right until bellsprout, open summery to hear its cry
+use coin case
+walk down, left, up
+talk to red (press A)
