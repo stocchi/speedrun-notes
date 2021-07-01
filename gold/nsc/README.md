@@ -1,7 +1,8 @@
 Gold NSC notes, copy pasted from various sources
 
-do Trainer ID manipulation: (todo:video)
+do Trainer ID manipulation: (todo:video) offset(GBI):42720
 gold_gfwait_backout4_wait337(setopt)_backout10_newgame: TID = 0xD900 (55552), LID = 0xD3EC (54252), Offset (wait): 43.297, Offset (NG): 58.32
+
 
 if you want to do totodile or encounterless manips later (they are optionals), Start a timer on TID hard reset and confirm minutes between 1:00.50 and 1:01.50 (todo: this doesnt consider GBP fadeout, check whats the correct time)
 
