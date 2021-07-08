@@ -64,7 +64,7 @@ Heal, then get the egg
 | 3   | s↓↓↓A | ↑↑↑←←A | ↑→↑↑→A | s↓↓←↓→A | s↑→↑↑A | ↓↓←↓A | ↑→↑↑→A | SA | éh'dHég'd |
 | 4   | s↓↓↓A | s↑↑↑←←A | s↑→↑↑→A | ←←←A | →→A | A | s←↓A | s→→A | éH'd'véé&2 |
 | 5   | ←←A | s↑→↑↑A | s←←←A | s→→→→A | s←←←←A | s→→→A | A | →→→↓A | Hé]'d]éé4 |
-| 6   | s↓↓↓→→A | A | A | A | ←A | SA |  |  | A'l'l'l'l'd |
+| 6   | s↓↓↓→→A | A | A | A | ←A | SA |  |  | 'l'l'l'l'd |
 | 14  | s←←←↓A | A | A | A | ↓↓↓←←A | ↑←A | ↑A | ←←↓↓A | pppp5'mv2 |
 
 Route 32:
