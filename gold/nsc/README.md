@@ -9,11 +9,42 @@ if you want to do totodile or encounterless manips later (they are optionals), S
 Set the time to 10:00 AM, name yourself A, say Y/Y/N/Y/Y to the Yes/No textboxes from mom
 
 (optional)[toto manip](https://pastebin.com/GirxGiU9)
+<details>
+<summary>notes for run</summary>
+<br>
+
+8. 0x89C2 (20/12/12/9/10/10)    ; npc: r
+9. 0x1B43 (21/11/12/9/10/9) / (20/11/12/9/10/9)    ; npc: l
+10. 0x394F (21/11/12/10/11/9) / (21/11/12/9/9/9)   ; npc: u
+11. **0xFDFF (21/13/12/10/11/10)   ; npc: d**
+12. **0xDECF (20/12/12/10/11/10)   ; npc: u**
+13. 0xC7A6 (20/12/12/10/10/10)   ; npc: u
+14. 0x3501 (21/11/11/9/9/9) / (20/11/12/9/10/9)     ; npc: u
+15. 0xBF79 (21/12/12/10/10/10)   ; npc: l
+
+</details>
+
+
 The correct stats are 21/13/12/10/11/10. Feel free to take the one frame late too which has 20/12/12/10/11/10.
 
 Take Totodile’s Berry off, if not manipulating you might want to check stats (12 attack required?)
 
 (optional)[r29 manip](https://pastebin.com/bjBqGeCQ)
+<details>
+<summary>notes for run</summary>
+<br>
+
+- Pass 1: https://imgur.com/a/R5iZhvy
+- Pass 2: https://imgur.com/a/E3VgHos
+
+12. u -> d          (2/60 IGT: l -> u)                 * instant, 2/60 IGT is after ~8 tiles
+13. r -> u          (2/60 IGT: r -> d, 1/60 IGT: d)    * instant, including IGTs             
+14. **r -> l          (2/60 IGT: d -> r)                 * changes direction instantly, including IGTs**
+15. **d -> r          (no IGTs)                          * changes direction after ~8 tiles**
+16. **l               (2/60 IGT: u -> d)                 * IGT NPC changes direction after ~10 tiles**
+17. d -> l -> d     (2/60 IGT: d -> u -> r)            * instant, including IGTs
+18. d -> l          (no IGTs)                          * after ~11 tiles
+</details>
 
 Go to Mr. Pokemon
 Kill one Level 2 Pidgey, Level 2 Sentret or Level 3 Caterpie if you encounter one (only on the way to Mr. Pokemon, not worth on way back  since you’ll take damage before the rival fight)
@@ -24,8 +55,6 @@ buy 4 potions (skip this if manipped?)
 Rival 1: spam Scratch
 
 go back to the lab, name rival 1 char, skip the catching tutorial
-
-(optional)[r29 manip again](https://pastebin.com/bjBqGeCQ)
 
 catch a Sentret if you see one (Scratch once, throw balls)
 
