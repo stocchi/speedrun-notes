@@ -124,7 +124,6 @@ Avoid Spinner Anthony (incase you hit, spam Water Gun)
 Shop before Kurt if you are below 30HP, if not shop after talking to Kurt
 
 - 3 Super Potions (3D)
-- 1 Escape Rope (1D)
 - 3 Repels (1D)
 - 3 Antidotes (1D)
 - 1 Paralyz Heal (1D)
