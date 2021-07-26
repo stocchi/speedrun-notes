@@ -3,13 +3,14 @@ Gold NSC notes, copy pasted from various sources
 do Trainer ID manipulation: (todo:video) offset(GBI):42720
 gold_gfwait_backout4_wait337(setopt)_backout10_newgame: TID = 0xD900 (55552), LID = 0xD3EC (54252), Offset (wait): 43.297, Offset (NG): 58.32
 
-gold_gfwait_backout4_wait334(setopt)_backout10_newgame: TID = 0x7F90 (32656), LID = 0x0C4A (03146), Offset (wait): 43.096, Offset (NG): 58.12
-gold_gfwait_backout4_wait335(setopt)_backout10_newgame: TID = 0xF263 (62051), LID = 0xA52C (42284), Offset (wait): 43.163, Offset (NG): 58.18
-gold_gfwait_backout4_wait336(setopt)_backout10_newgame: TID = 0xFF99 (65433), LID = 0xD5A5 (54693), Offset (wait): 43.230, Offset (NG): 58.25
-gold_gfwait_backout4_wait337(setopt)_backout10_newgame: TID = 0xD900 (55552), LID = 0xD3EC (54252), Offset (wait): 43.297, Offset (NG): 58.32
-gold_gfwait_backout4_wait338(setopt)_backout10_newgame: TID = 0x39FE (14846), LID = 0x58BA (22714), Offset (wait): 43.364, Offset (NG): 58.38
-gold_gfwait_backout4_wait339(setopt)_backout10_newgame: TID = 0x0A6D (02669), LID = 0x4EF9 (20217), Offset (wait): 43.431, Offset (NG): 58.45
-gold_gfwait_backout4_wait340(setopt)_backout10_newgame: TID = 0xCAF5 (51957), LID = 0x3126 (12582), Offset (wait): 43.498, Offset (NG): 58.52
+Adjacent Framerules
+- -3 32656
+- -2 62051
+- -1 65433
+- 0 55552
+- 1 14846
+- 2 02669
+- 3 51957
 
 
 if you want to do totodile or encounterless manips later (they are optionals), Start a timer on TID hard reset and confirm minutes between 1:00.50 and 1:01.50 (todo: this doesnt consider GBP fadeout, check whats the correct time)
