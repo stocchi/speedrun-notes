@@ -12,8 +12,7 @@ Adjacent Framerules
 - 2 02669
 - 3 51957
 
-
-if you want to do totodile or encounterless manips later (they are optionals), Start a timer on TID hard reset and confirm minutes between 1:00.50 and 1:01.50 (todo: this doesnt consider GBP fadeout, check whats the correct time)
+if you want to do totodile or encounterless manips later (they are optionals), Start a timer on TID hard reset and confirm minutes between 1:00.50 and 1:01.50 (todo: this doesnt consider GBP fadeout, check whats the correct time) - note: after some runs, just not missing the first textbox will give ss0 from TID manip, no need for timer
 
 Set the time to 10:00 AM, name yourself A, say Y/Y/N/Y/Y to the Yes/No textboxes from mom
 
@@ -33,37 +32,53 @@ Set the time to 10:00 AM, name yourself A, say Y/Y/N/Y/Y to the Yes/No textboxes
 
 </details>
 
-
 The correct stats are 21/13/12/10/11/10. Feel free to take the one frame late too which has 20/12/12/10/11/10.
 
 Take Totodile’s Berry off, if not manipulating you might want to check stats (12 attack required?)
 
 (optional)[r29 manip](https://pastebin.com/bjBqGeCQ)
 <details>
-<summary>notes for run</summary>
-<br>
-
-- Pass 1: https://imgur.com/a/R5iZhvy
-- Pass 2: https://imgur.com/a/E3VgHos
-
-12. u -> d          (2/60 IGT: l -> u)                 * instant, 2/60 IGT is after ~8 tiles
-13. r -> u          (2/60 IGT: r -> d, 1/60 IGT: d)    * instant, including IGTs             
-14. **r -> l          (2/60 IGT: d -> r)                 * changes direction instantly, including IGTs**
-15. **d -> r          (no IGTs)                          * changes direction after ~8 tiles**
-16. **l               (2/60 IGT: u -> d)                 * IGT NPC changes direction after ~10 tiles**
-17. d -> l -> d     (2/60 IGT: d -> u -> r)            * instant, including IGTs
-18. d -> l          (no IGTs)                          * after ~11 tiles
-</details>
+ <summary>r -> l</summary>
+ <br>
+ <img src="https://i.imgur.com/PX1pgAr.png"/>
+ </details>
+  <details>
+ <summary>d -> r</summary>
+ <br>
+ <img src="https://i.imgur.com/EOlmJpZ.png"/>
+ </details>
+  <details>
+ <summary>l</summary>
+ <br>
+ <img src="https://i.imgur.com/4jNSDuf.png"/>
+ </details>
 
 Go to Mr. Pokemon
-Kill one Level 2 Pidgey, Level 2 Sentret or Level 3 Caterpie if you encounter one (only on the way to Mr. Pokemon, not worth on way back  since you’ll take damage before the rival fight)
-todo: is this correct?
+Kill one Level 2 Pidgey, Level 2 Sentret or Level 3 Caterpie if you encounter one (only on the way to Mr. Pokemon, not worth on way back since you’ll take damage before the rival fight)
 
-buy 4 potions (skip this if manipped?)
+If you are doing manips, pick up the hidden potion after Mr.Pokemon
+Otherwise, skip and buy 4 potions
 
 Rival 1: spam Scratch
 
 go back to the lab, name rival 1 char, skip the catching tutorial
+
+(optional)[r29 manip 2nd pass](https://pastebin.com/bjBqGeCQ)
+<details>
+ <summary>r -> l</summary>
+ <br>
+ <img src="https://i.imgur.com/Bu9RQX3.png"/>
+ </details>
+  <details>
+ <summary>d -> r</summary>
+ <br>
+ <img src="https://i.imgur.com/1sjG78D.png"/>
+ </details>
+  <details>
+ <summary>l</summary>
+ <br>
+ <img src="https://i.imgur.com/y7Z8MBy.png"/>
+ </details>
 
 catch a Sentret if you see one (Scratch once, throw balls)
 
@@ -74,6 +89,8 @@ Youngster Mikey: spam Scratch
 Put the Berry back on and call Mom (this can be done before Don Manip or on the Start buffers while passing Don) (if your HP is 14 or less, also Potion)
 
 Avoid Spinner Don (rage both Caterpies if you hit)
+
+Catch Bellsprout if you need a cutter (note lv3 bellsprout will never work in slot3 so avoid this for marathons)
 
 Optional: Pick up the Bitterberry and equip it when you heal in Falkner's Gym (Would recommend if you aren’t doing Don Manip)
 
@@ -91,9 +108,10 @@ Potion if below 16HP, or if below 19HP if you’re already LVL 10
 
 Gym Leader Falkner: Rage spam
 
-Enter the Pokemon Center
-Heal, then get the egg
-(use a potion instead if have cutter already?)
+Enter the Pokemon Center: 
+- Heal, then get the egg
+ - If you bought 4 potions, use them instead of centering
+- Rename boxes here (delay after Union Cave if you want to do Sandshrew/encounterless manip)
 
 | BOX | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | NAME |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
@@ -114,14 +132,45 @@ Youngster Albert:
     - Scratch x2 if you don’t have God Toto
  -  Zubat: Rage/Scratch
 
+Look for encounters until you have seen Bellsprout once
+
 Fisher Ralph: Leer, Scratch 3x
 
 Hiker Russell:  Water Gun 3x
 
-(optional)[cave encounterless](https://cdn.discordapp.com/attachments/751229264816504932/757277654679289977/uce.png) ->
-[(f 3-5 on Sandshrew Manip)](https://pastebin.com/vuQixFYT)
 
-
+(optional)[cave manip (wont work with early box)](https://pastebin.com/vuQixFYT)
+<details>
+ <summary>r->d spam (fast)</summary>
+ <br>
+ <img src="https://i.imgur.com/NYvaBeG.png"/>
+ </details>
+  <details>
+ <summary>u->l->d->...</summary>
+ <br>
+ <img src="https://i.imgur.com/9X9XpwT.png"/>
+ </details>
+   <details>
+ <summary>stuck r</summary>
+ <br>
+ <img src="https://i.imgur.com/N4v3m6w.png"/>
+ </details>
+    <details>
+ <summary>r->d->r->u (slow)</summary>
+ <br>
+ <img src="https://i.imgur.com/4DMeflg.png"/>
+ </details>
+     <details>
+ <summary>r->d->stuck r</summary>
+ <br>
+ <img src="https://i.imgur.com/jE9t6j7.png"/>
+ </details>
+      <details>
+ <summary>cave encounterless(f 3-5 on Sandshrew Manip)</summary>
+ <br>
+ <img src="https://cdn.discordapp.com/attachments/751229264816504932/757277654679289977/uce.png"/>
+ </details>
+ 
 Firebreather Ray: Water Gun, Scratch (Rage if Vulpix is in Redbar)
 
 If you get Burned by Ember, pick up and use Hidden Full Heal
@@ -130,7 +179,7 @@ Azalea Town/Slowpoke Well:
 
 Avoid Spinner Anthony (incase you hit, spam Water Gun)
 
-Shop before Kurt if you are below 30HP, if not shop after talking to Kurt
+Shop after talking to Kurt
 
 - 3 Super Potions (3D)
 - 3 Repels (1D)
@@ -179,11 +228,12 @@ Avoid Spinner Benny (if hit: Water Gun, Water Gun + Rage, spam Rage)
 
 Gym Leader Bugsy: spam Rage
 
-Before Rival 2:
+Menu Before Rival 2:
 - Use a Super Potion / Potion if it heals full
 - Repel (1D)
 - (Heal Poison)
-- Teach Fury Cutter over Rage
+- Teach Fury Cutter over Rage (Slot3)
+- 
 Rival 2:
 - Gastly: Water Gun x2
 - Bayleef: Furry Cutter x3 (+ Scratch)
@@ -196,15 +246,11 @@ Get Cut from the left guy, when repel runs out:
 - Repel (1D if Supers in Slot 1)
 - Teach Cut to cutter (L)
 
-Exit Ilex Forrest, get Kenya
+Exit Ilex Forrest, repel one more time, get Kenya
 
 Enter Underground
 
 Fight Slowpokes: spam fury cutter
-
-The coin case glitch requires some specific DVs for the 3rd pokmeon in your party.
-Either Egg or Kenya in 3rd is ~71% to work with random DVs (L6 Bellsprout is 71%*(12/16) to work, L3 Bellsprout never works), if you want to finish the run save before this next section, and if the glitch fails try different pokemons in slot3.
-If it keeps failing, you might have messed up TID/box names, or you got really unlucky
 
 pick up coin case from above (IMPORTANT)
 (Equip Berry to Toto, Swap Toto with kenya) is this still needed?
@@ -213,3 +259,12 @@ Open pokedex, scroll with right until bellsprout, open summery to hear its cry
 use coin case
 walk down, left, up
 talk to red (press A)
+
+
+The coin case glitch requires some specific DVs for the 3rd pokmeon in your party.
+- Croconaw movesets needs to be Scratch/Leer/FuryCutter/WaterGun, in this specific order (always correct?)
+- Either Egg or Kenya in 3rd is ~71% to work with random DVs (L6 Bellsprout is 71%*(12/16) to work,
+ - L3 Bellsprout never works)
+
+Ff you want to finish the run save after getting coin case, and if the glitch fails try different pokemons in slot3.
+If it keeps failing, you might have messed up TID/box names, or you got really unlucky
