@@ -183,8 +183,7 @@ Before Rival 2:
 - Use a Super Potion / Potion if it heals full
 - Repel (1D)
 - (Heal Poison)
-- Teach Fury Cutter over Leer (1L,1D)
-
+- Teach Fury Cutter over Rage
 Rival 2:
 - Gastly: Water Gun x2
 - Bayleef: Furry Cutter x3 (+ Scratch)
