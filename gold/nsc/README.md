@@ -1,7 +1,7 @@
-Gold NSC notes, copy pasted from various sources
+Gold NSC notes -2021 route
 
-do Trainer ID manipulation: (todo:video) offset(GBI):42720
-gold_gfwait_backout4_wait337(setopt)_backout10_newgame: TID = 0xD900 (55552), LID = 0xD3EC (54252), Offset (wait): 43.297, Offset (NG): 58.32
+Trainer ID manipulation: (todo:video) 
+gold_gfwait_backout4_wait337(setopt)_backout10_newgame: TID = 0xD900 (55552), LID = 0xD3EC (54252), Offset (wait): 43.297, offset(wait GBI): 42.720 Offset (NG): 58.32
 
 Adjacent Framerules
 - -3 32656
@@ -12,7 +12,7 @@ Adjacent Framerules
 - 2 02669
 - 3 51957
 
-if you want to do totodile or encounterless manips later (they are optionals), Start a timer on TID hard reset and confirm minutes between 1:00.50 and 1:01.50 (todo: this doesnt consider GBP fadeout, check whats the correct time) - note: after some runs, just not missing the first textbox will give ss0 from TID manip, no need for timer
+if you want to do rng manipulations later (they are optional), start a timer on TID hard reset and confirm minutes between 1:00.50 and 1:01.50 (todo: this doesnt consider GBP fadeout, check whats the correct time) - note: just not missing the first textbox will give ss0 from TID manip, no need for timer
 
 Set the time to 10:00 AM, name yourself A, say Y/Y/N/Y/Y to the Yes/No textboxes from mom
 
@@ -25,14 +25,14 @@ Set the time to 10:00 AM, name yourself A, say Y/Y/N/Y/Y to the Yes/No textboxes
 9. 0x1B43 (21/11/12/9/10/9) / (20/11/12/9/10/9)    ; npc: l
 10. 0x394F (21/11/12/10/11/9) / (21/11/12/9/9/9)   ; npc: u
 11. **0xFDFF (21/13/12/10/11/10)   ; npc: d**
-12. **0xDECF (20/12/12/10/11/10)   ; npc: u**
+12. 0xDECF (20/12/12/10/11/10)   ; npc: u
 13. 0xC7A6 (20/12/12/10/10/10)   ; npc: u
 14. 0x3501 (21/11/11/9/9/9) / (20/11/12/9/10/9)     ; npc: u
 15. 0xBF79 (21/12/12/10/10/10)   ; npc: l
 
 </details>
 
-The correct stats are 21/13/12/10/11/10. Feel free to take the one frame late too which has 20/12/12/10/11/10.
+The correct manipped stats are 21/13/12/10/11/10.
 
 Take Totodile’s Berry off, if not manipulating you might want to check stats (12 attack required?)
 
@@ -59,7 +59,7 @@ Kill one Level 2 Pidgey, Level 2 Sentret or Level 3 Caterpie if you encounter on
 If you are doing manips, pick up the hidden potion after Mr.Pokemon
 Otherwise, skip and buy 4 potions
 
-Rival 1: spam Scratch
+Rival 1: Leer once, spam Scratch
 
 go back to the lab, name rival 1 char, skip the catching tutorial
 
@@ -84,13 +84,12 @@ catch a Sentret if you see one (Scratch once, throw balls)
 
 Youngster Mikey: spam Scratch
 
-(optional)[Don Manip](https://pastebin.com/7KdSvbZG)
-
 Put the Berry back on and call Mom (this can be done before Don Manip or on the Start buffers while passing Don) (if your HP is 14 or less, also Potion)
+(optional)[Don Manip](https://pastebin.com/7KdSvbZG)
 
 Avoid Spinner Don (rage both Caterpies if you hit)
 
-Catch Bellsprout if you need a cutter (note lv3 bellsprout will never work in slot3 so avoid this for marathons)
+Catch Bellsprout if you need a cutter
 
 Optional: Pick up the Bitterberry and equip it when you heal in Falkner's Gym (Would recommend if you aren’t doing Don Manip)
 
@@ -139,7 +138,7 @@ Fisher Ralph: Leer, Scratch 3x
 Hiker Russell:  Water Gun 3x
 
 
-(optional)[cave manip (wont work with early box)](https://pastebin.com/vuQixFYT)
+(optional)[cave manip (wont work with early box=more than 7 extra steps)](https://pastebin.com/vuQixFYT)
 <details>
  <summary>r->d spam (fast)</summary>
  <br>
@@ -209,7 +208,7 @@ Heal to 11+ HP if level up before, 16+HP if didn’t
 
 Rocket Grunt #4: Water Gun 3x/4x
 
-Enter Bugsy's Gym (Kurt healed you), fight right Trainer first
+Enter Bugsy's Gym (Kurt healed you), fight right twin
 
 Twins Amy & May:
 - Ledyba: Scratch 2x
@@ -233,7 +232,7 @@ Menu Before Rival 2:
 - Repel (1D)
 - (Heal Poison)
 - Teach Fury Cutter over Rage (Slot3)
-- 
+
 Rival 2:
 - Gastly: Water Gun x2
 - Bayleef: Furry Cutter x3 (+ Scratch)
@@ -250,21 +249,21 @@ Exit Ilex Forrest, repel one more time, get Kenya
 
 Enter Underground
 
-Fight Slowpokes: spam fury cutter
+Fight Slowpokes: spam Fury Cutter
 
 pick up coin case from above (IMPORTANT)
-(Equip Berry to Toto, Swap Toto with kenya) is this still needed?
+Equip Berry to Toto, Swap Toto with kenya
 walk left 1, up 1, left 2
-Open pokedex, scroll with right until bellsprout, open summery to hear its cry
+Open pokedex, scroll with right until bellsprout, open summary to hear its cry
 use coin case
 walk down, left, up
 talk to red (press A)
 
 
-The coin case glitch requires some specific DVs for the 3rd pokmeon in your party.
-- Croconaw movesets needs to be Scratch/Leer/FuryCutter/WaterGun, in this specific order (always correct?)
-- Either Egg or Kenya in 3rd is ~71% to work with random DVs (L6 Bellsprout is 71%*(12/16) to work,
- - L3 Bellsprout never works)
+Notes for coin case setup:
+- Croconaw always needs to be 4th in part and its movesets needs to be Scratch/Leer/FuryCutter/WaterGun, in this specific order
+- Either Egg or Kenya in 3rd is ~71% to work with random DVs (L6 Bellsprout is 71%*(12/16) to work, L3 Bellsprout never works
+- TODO: check sandshrew chances
 
-Ff you want to finish the run save after getting coin case, and if the glitch fails try different pokemons in slot3.
+If you want to finish the run save after getting coin case, and if the glitch fails try different pokemons in slot3.
 If it keeps failing, you might have messed up TID/box names, or you got really unlucky
