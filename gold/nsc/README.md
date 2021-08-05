@@ -114,7 +114,7 @@ Enter the Pokemon Center:
 
 | BOX | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | NAME |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| 1   | ↓s↓A | S←↓A | S→↑→A | ←↑A | sS←↓A | sS↑A | ←↑A | ←↓A | éd2éD9'v7 |  
+| 1   | ↓s↓A | S←↓A | S→↑→rA | ←↑A | sS←↓A | sS↑A | ←A | ↓A | éd2éD9'v7 |  
 | 2   | ↓s↓A | ←s←←A | ←s←A | sS↓←A | ↑↑←A | →sA | SA |  | é['dH.9 |
 | 3   | ↓s↓A | S↓←A | S→↑↑→A | sS↓←A | ↑ss→sA | ↓↓←↓A | S↑↑→→A | SA | éh'dHég'd |
 | 4   | ↓s↓A | sS↓←A | S↑s→→A | ←ssA | →→A | A | s←↓A | →sA | éH'd'véé&2 |
