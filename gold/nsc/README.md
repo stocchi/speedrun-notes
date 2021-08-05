@@ -114,10 +114,10 @@ Enter the Pokemon Center:
 
 | BOX | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | NAME |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| 1   | s↓↓↓A | S←↓A | S→↑→A | ←↑A | sS←↓A | sS↑A | ←↑A | ←↓A | éd2éD9'v7 |  
-| 2   | s↓↓↓A | ←s←←A | ←sssA | sS↓←A | ↑↑←A | →sA | ↓A |  | é['dH.9 |
-| 3   | s↓↓↓A | S↓←A | S→↑↑→A | sS↓←A | ↑ss→sA | ↓↓←↓A | S↑↑→→A | SA | éh'dHég'd |
-| 4   | s↓↓↓A | sS↓←A | S↑s→→A | ←ssA | →→A | A | s←↓A | →sA | éH'd'véé&2 |
+| 1   | ↓s↓A | S←↓A | S→↑→A | ←↑A | sS←↓A | sS↑A | ←↑A | ←↓A | éd2éD9'v7 |  
+| 2   | ↓s↓A | ←s←←A | ←sssA | sS↓←A | ↑↑←A | →sA | ↓A |  | é['dH.9 |
+| 3   | ↓s↓A | S↓←A | S→↑↑→A | sS↓←A | ↑ss→sA | ↓↓←↓A | S↑↑→→A | SA | éh'dHég'd |
+| 4   | ↓s↓A | sS↓←A | S↑s→→A | ←ssA | →→A | A | s←↓A | →sA | éH'd'véé&2 |
 | 5   | ←←A | S→↑sA | ←sssA | →sss→A | ←sss←A | →sssA | A | S←↑A | Hé]'d]éé4 |
 | 6   | ↑ss→sA | A | A | A | ←A | SA |  |  | 'l'l'l'l'd |
 | 14  | ←s←↓A | A | A | A | S←↑→A | ↑←A | ↑A | ←s↓sA | pppp5'mv2 |
