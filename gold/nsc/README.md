@@ -114,13 +114,13 @@ Enter the Pokemon Center:
 
 | BOX | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | NAME |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| 1   | ↓s↓A | S←↓A | S→↑→rA | ←↑A | sS←↓A | sS↑A | ←A | ↓A | éd2éD9'v7 |  
-| 2   | ↓s↓A | ←s←←A | ←s←A | sS↓←A | ↑↑←A | →sA | SA |  | é['dH.9 |
-| 3   | ↓s↓A | S↓←A | S→↑↑→A | sS↓←A | ↑ss→sA | ↓↓←↓A | S↑↑→→A | SA | éh'dHég'd |
-| 4   | ↓s↓A | sS↓←A | S↑s→→A | ←ssA | →→A | A | s←↓A | →sA | éH'd'véé&2 |
-| 5   | ←←A | S→↑sA | ←s←A | →sssA | ←sssA | →s→A | A | S←↑A | Hé]'d]éé4 |
-| 6   | ↑ss→sA | A | A | A | ←A | SA |  |  | 'l'l'l'l'd |
-| 14  | ←s←↓A | A | A | A | S←↑→A | ↑←A | ↑A | ←s↓sA | pppp5'mv2 |
+| 1   | ↓→sA | S←↓A | S→↑r→rA | ←↑A | sS←↓A | sS↑A | ←A | ↓rA | éd2éD9'v7 |  
+| 2   | ↓→srA | ←s←←A | ←s←A | sS↓r←A | ↑←rA | →sA | SA |  | é['dH.9 |
+| 3   | ↓→sA | S↓r←A | S→↑←r→A | sS↓r←rA | ↑←→r→srA | ↓→r←↓A | S↑←r→→A | SA | éh'dHég'd |
+| 4   | ↓→sA | sS↓r←A | S↑s→→rA | ←ssrA | →→rA | A | s←↓rA | →srA | éH'd'véé&2 |
+| 5   | ←←A | S→↑srA | ←s←rA | →sssrA | ←sssrA | →s→rA | A | S←↑rA | Hé]'d]éé4 |
+| 6   | ↑→←r→srA | A | A | A | ←A | SA |  |  | 'l'l'l'l'd |
+| 14  | ←s←↓rA | A | A | A | S←↑r→rA | ←↑A | rA | ←s↓srA | pppp5'mv2 |
 
 Route 32:
 
