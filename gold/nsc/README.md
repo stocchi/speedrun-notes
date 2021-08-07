@@ -120,7 +120,7 @@ Enter the Pokemon Center:
 | 4   | ↓→sA | sS↓r←A | S↑s→→rA | ←ssrA | →→rA | A | s←↓rA | →srA | éH'd'véé&2 |
 | 5   | ←←A | S→↑srA | ←s←rA | →sssrA | ←sssrA | →s→rA | A | S←↑rA | Hé]'d]éé4 |
 | 6   | ↓→←r→srA | A | A | A | ←A | SA |  |  | 'l'l'l'l'd |
-| 14  | ←s←↓rA | A | A | A | S←↑r→rA | ←↑A | rA | ←s↓←rA | pppp5'mv2 |
+| 14  | ←s←↓rA | A | A | A | S←↑r→rA | ←↑A | rA | ←s↓srA | pppp5'mv2 |
 
 Route 32:
 
