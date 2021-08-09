@@ -84,7 +84,7 @@ catch a Sentret if you see one (Scratch once, throw balls)
 
 Youngster Mikey: spam Scratch
 
-Put the Berry back on and call Mom (this can be done before Don Manip or on the Start buffers while passing Don) (if your HP is 14 or less, also Potion)
+Potion if <15, equip berry (15-16 use berry), call Mom (this can be done before Don Manip or on the Start buffers while passing Don)
  <details>
  <summary>(optional)[Don Manip](https://pastebin.com/7KdSvbZG)</summary>
  <br>
@@ -93,15 +93,13 @@ Put the Berry back on and call Mom (this can be done before Don Manip or on the 
 
 Avoid Spinner Don (rage both Caterpies if you hit)
 
-Catch Bellsprout if you need a cutter
-
 Optional: Pick up the Bitterberry and equip it when you heal in Falkner's Gym (Would recommend if you aren’t doing Don Manip)
 
 Violet Town:
 
 Enter Falkners gym
 
-Bird Keeper Ape: Rage spam
+Bird Keeper Ape: Rage spam (Scratch last turn if red bar)
 
 Potion if below 10HP
 
@@ -128,16 +126,16 @@ Enter the Pokemon Center:
 
 Route 32:
 
+Get the Przcureberry
 Kill any encounter if you have no extra exp
 
-Youngster Albert:
- -  Rattata: Rage turn 1, Raging if Tackle, Scratch if TW
-    - Scratch x2 if you don’t have God Toto
- -  Zubat: Rage/Scratch
+Youngster Albert: Rage x4-5 (Scratch if not hit turn 1)
 
-Look for encounters until you have seen Bellsprout once
+Look for encounters until you have seen Bellsprout, scratch and throw balls
 
-Fisher Ralph: Leer, Scratch 3x
+Fight Ralph if you have killed an encounter: Leer, Scratch 3x
+
+Teach Mud Slap and fight Daniel if didn't fight Ralph (Leer+Mud Slap spam) (teach Water Gun over Mud Slap)
 
 Hiker Russell:  Water Gun 3x
 
