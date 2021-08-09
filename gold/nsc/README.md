@@ -85,7 +85,11 @@ catch a Sentret if you see one (Scratch once, throw balls)
 Youngster Mikey: spam Scratch
 
 Put the Berry back on and call Mom (this can be done before Don Manip or on the Start buffers while passing Don) (if your HP is 14 or less, also Potion)
-(optional)[Don Manip](https://pastebin.com/7KdSvbZG)
+ <details>
+ <summary>(optional)[Don Manip](https://pastebin.com/7KdSvbZG)</summary>
+ <br>
+ <img src="https://cdn.discordapp.com/attachments/638862200148066324/874377359611031622/don.png"/>
+ </details>
 
 Avoid Spinner Don (rage both Caterpies if you hit)
 
@@ -137,35 +141,8 @@ Fisher Ralph: Leer, Scratch 3x
 
 Hiker Russell:  Water Gun 3x
 
-
-(optional)[cave manip (wont work with early box=more than 7 extra steps)](https://pastebin.com/vuQixFYT)
-<details>
- <summary>r->d spam (fast)</summary>
- <br>
- <img src="https://i.imgur.com/NYvaBeG.png"/>
- </details>
-  <details>
- <summary>u->l->d->...</summary>
- <br>
- <img src="https://i.imgur.com/9X9XpwT.png"/>
- </details>
-   <details>
- <summary>stuck r</summary>
- <br>
- <img src="https://i.imgur.com/N4v3m6w.png"/>
- </details>
-    <details>
- <summary>r->d->r->u (slow)</summary>
- <br>
- <img src="https://i.imgur.com/4DMeflg.png"/>
- </details>
-     <details>
- <summary>r->d->stuck r</summary>
- <br>
- <img src="https://i.imgur.com/jE9t6j7.png"/>
- </details>
-      <details>
- <summary>cave encounterless(f 3-5 on Sandshrew Manip)</summary>
+ <details>
+ <summary>(optional)cave encounterless[(f 3-5 on Sandshrew Manip)](https://pastebin.com/vuQixFYT)</summary>
  <br>
  <img src="https://cdn.discordapp.com/attachments/751229264816504932/757277654679289977/uce.png"/>
  </details>
