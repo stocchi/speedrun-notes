@@ -90,7 +90,7 @@ Potion if <15, equip berry (15-16 use berry), call Mom (this can be done before 
  <br>
  <img src="https://cdn.discordapp.com/attachments/638862200148066324/874377359611031622/don.png"/>
  </details>
-
+U/R(FAST)/R(SLOW)/L
 Avoid Spinner Don (rage both Caterpies if you hit)
 
 Optional: Pick up the Bitterberry and equip it when you heal in Falkner's Gym (Would recommend if you aren’t doing Don Manip)
