@@ -314,7 +314,8 @@ In the basement catch **Krabby**, **Staryu**, and jack across the water to catch
 - swap Super Repel x1 in inventory **2 under Burn Heal**
 - with Old Amber in brightness **2 under Revivex93**
 - then use an Escape Rope from badges. **triple input up**
-- nter the center and **change boxes**. Open the menu while at the PC:
+
+Enter the center and **change boxes**. Open the menu while at the PC:
 - Swap Ultra Ball x0 in brightness **triple input select down**
 - with HM04 in TLP2 **down 2, keep scrolling down**
 - Swap Potion x6 in tileset **4 down**
