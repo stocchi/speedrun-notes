@@ -88,8 +88,9 @@ Item bag:
 * Swap slot 1 with badges **the slot below j. x[]9**
 * Swap the slot above options **2 up from cursor** with Master Ball x5 in warping **2 under HM04**
 * Toss all-but-6 of the j. stack now in warping **first x[]0**
-* Swap "vtm" x64 in map data with options **triple input down select, scroll up**
-* Swap vtm again with WA4 in rival name **2 above Master Ballx[]5**
+* Swap "vtm" x64 in map data **triple input down select, scroll up**
+* with options **2 above Master Ballx[]4**
+* Swap vtm again with WA4 in rival name **triple input up**
 
 Item PC:
 
