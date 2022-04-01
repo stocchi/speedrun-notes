@@ -279,7 +279,7 @@ Walk **1** tile right then **hold down** to warp to Seafoam B2F.
 
 <img align="right" src="https://i.imgur.com/K7m7zHK.png">
 
-Corner bonk to the right of the bottom ladder for encounters.
+Corner bonk to the right of the bottom ladder for encounters. Hop on bike after the first
 
 In your first unneeded encounter LG for **Magikarp**:
 
