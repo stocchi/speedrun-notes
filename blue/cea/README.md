@@ -22,13 +22,13 @@ Enter Viridian Mart and buy:
 
 ### Route 2
 
-Manipulate a **Pidgey** encounter & catch with `nopal(ab)` and the path shown. This Pidgey will always have HP that works for Brock Through Walls and will always catch, so a random Pidgey is not a viable alternative.
+Manipulate a **Pidgey** encounter & catch with `nopal(ab)` and the path shown. This Pidgey will always have HP that works for Brock Through Walls and will always catch, so a random Pidgey is not a viable alternative. extended with npcs DU,rl,ud
 
 ### Viridian Forest
 
 
 
-If you still need a Caterpie, use the [Non-extended Caterpie Manip](#rng-manipulations) inside the forest.
+If you still need a Caterpie, use the [Non-extended Caterpie Manip](#rng-manipulations) inside the forest. 
 
 Pick up the Antidote.
 
