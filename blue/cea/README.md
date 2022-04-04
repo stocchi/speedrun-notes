@@ -297,7 +297,7 @@ In your first unneeded encounter LG for **Magikarp**:
 - Swap HM04 again with BLUE in text pointer **2 above jx[]5**
 - Swap TM50 x0 **1 above** with Pokedex, also **1 above**
 - Flash map
-- Swap Pokedex back with TM50 x0
+- Swap TM50 x0 back with Pokedex
 - Swap HM04 back with Max Potion x0 in TLP2 **2 above jx[]0**
 - Flash WA4 in options **2 above Revive** then throw a preoptions Master Ball
 
