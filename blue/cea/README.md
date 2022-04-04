@@ -363,7 +363,7 @@ In the manipped encounter:
 - with Parlyz Heal x17 in tileset **1 down**
 - Throw a Master Ball from cursor
 
-### Route 11 #1
+### Route 11 1
 
 <img align="right" src="https://i.imgur.com/nnfUgdb.png">
 
