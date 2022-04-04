@@ -3,10 +3,10 @@ Autumn 2020 route & guide, last updated <ins>6 March 2022</ins>
 
 Hard reset and [manipulate the trainer ID 54878](https://youtu.be/upzxy_0KW7A) nopal(ab)_gfskip_hop3_title0(backout)_title0_opt(backout)_backout_title0_opt(backout)
 
-Name the player `A`, Name the rival `AaRRSA*` ( A, sA, s↓←A, A, → ↓A,  ↑A,
+Name the player `A`, Name the rival `AaRRSA*` ( A, sA, s↓←A, A, → ↓A,  ↑A, ↓↓↓A )
 
 Open the start menu and set the options to Fast/Off/Shift. Optional: Withdraw the Potion from the PC.
-↓↓↓A )
+
 <img align="right" src="https://i.imgur.com/MCefV9n.png">
 Bulba manip info can be [found on pastebin](https://pastebin.com/L14vtxJS)
 
