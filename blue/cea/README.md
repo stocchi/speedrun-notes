@@ -1,4 +1,6 @@
 
+# moved everything here https://docs.google.com/document/d/1SgyPkMh5KH4LY-6-CgPU9XnROzq4PSw3t_n93P2TP-w/edit?usp=sharing formatting might be messed up i imported it from a local file
+
 Autumn 2020 route & guide, last updated <ins>6 March 2022</ins>
 
 Hard reset and [manipulate the trainer ID 54878](https://youtu.be/upzxy_0KW7A) nopal(ab)_gfskip_hop3_title0(backout)_title0_opt(backout)_backout_title0_opt(backout)
