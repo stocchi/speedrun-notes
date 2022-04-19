@@ -1,5 +1,5 @@
-
-
+# Yellow RBA (no underflow) route by entrpntr
+Credit to krazyd4n for several seconds of improvements to the route
 ## Intro
 - TID Manip:
 	- yellow_gfskip_intro0_title_newgame_oakreset
