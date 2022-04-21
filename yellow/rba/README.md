@@ -66,7 +66,7 @@
 
 ## Forest Mart
 - Buy
- - Max Repel x1 (slot 3)
+ - Max Repel x1 (slot 4)
  - Bicycle x23 (slot 2)
  - Bicycle x91 (slot 2)
  - scroll down
@@ -133,26 +133,26 @@ Close glitched mart, then re-open unglitched mart
 - Face right and [jack on cursor](https://gunnermaniac.com/pokeworld?map=45#16/17/LUUUUUUUUUUUULLLLLLUL)
 - IP, BZ, IP, IP, IP
 - Before exiting gym:
- - Use Max Repel (slot3)
+ - Use Max Repel (slot3) close with up
  - Pick up Revive  
    - ~0.2s faster than combining Max Repel and Bike menus and getting TM38 from Blaine
 - After exiting gym
-  - Bike to Pallet
-  - Use Surfboard (2 under Jack) and [surf to Cinnabar](https://gunnermaniac.com/pokeworld?map=1#58/250/LDDDDDDDDDDDDRDDDDDDDDDDDDDDDDDDDDDDRRDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD)
-  - jack (2 above cursor) and bike to enter Blaine's gym
+  - Bike (slot 3, cursor is on 2) to Pallet
+  - Use Surfboard (2 under Jack, close with up) and [surf to Cinnabar](https://gunnermaniac.com/pokeworld?map=1#58/250/LDDDDDDDDDDDDRDDDDDDDDDDDDDDDDDDDDDDRRDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD)
+  - jack (1 above cursor) and bike to enter Blaine's gym
    - must see 1 tile of water on top
 
 ## Blaine
-- Face right and [jack](https://gunnermaniac.com/pokeworld?map=166#16/17/LLUUUUUL)
-- Face up and medicine [jack](https://gunnermaniac.com/pokeworld?map=166#13/12/LLLLL) (2 above cursor)
+- Face right and [jack](https://gunnermaniac.com/pokeworld?map=166#16/17/LLUUUUUL) (1 up, close with up)
+- Face up and medicine [jack](https://gunnermaniac.com/pokeworld?map=166#13/12/LLLLL) (1 above cursor, close with down)
 - unjack, walk up then jack again to Blaine
 - BZ, BZ, BZ+IP
   - Don't Ether during fight if out of Blizzards, since that causes instant victory (b&). Use Ice Punches instead.
-- Ether on Blizzard
-- Teach Fly to Pidgey
-- Teach Teleport to Jynx (over Thrash)
-- Use Burn Heal if burned
-- Escape Rope to Pewter
+- Ether on Blizzard (2 under Potionx1)
+- Teach Fly to Pidgey (1 down)
+- Teach Teleport to Jynx (over Thrash)(1 down)
+- Use Burn Heal if burned (1 down)
+- Escape Rope to Pewter (1/2 down)
 - Bike (2 above 6F) to house near Brock fan and enter/exit, jack (1 below) and bike again
 - unjack, [Brock thru Walls to r23](https://gunnermaniac.com/pokeworld?map=1#75/69/LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDLU)
 - Walk up until Indigo Plateau map loads
