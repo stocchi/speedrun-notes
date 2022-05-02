@@ -75,6 +75,11 @@ The point of this fight is to die as quickly as possible. It usually only takes 
 	- listed early to late, each is a 2 frame window, target = FE
 	- use this to troubleshoot your failed manips
 - Same as YNSC
+
+Backup movement: backup options for wrong [NPC](https://gunnermaniac.com/pokeworld?map=1#53/182) movement without needing to re-save:
+- UP/RIGHT  = [U11, R2, U3  (A @ U8/U10/R1)](https://gunnermaniac.com/pokeworld?map=1#53/185/SRRRRRRUUUUUUUUAUUAURARUUU)
+- DOWN/LEFT = [U13, R2, U1  (A @ U1/U9/R1)](https://gunnermaniac.com/pokeworld?map=1#53/185/SRRRRRRUAUUUUUUUUAUUUURARU)
+
 - Attempt to buy the third item (Bicycle),
 - back out
 - Buy 1 of the second item (tmtrainer item)
@@ -84,7 +89,7 @@ The point of this fight is to die as quickly as possible. It usually only takes 
 Walk over to the PokéMart. Inside, perform these steps:
 - Walk 1 left
 - Attempt to save, but back out before doing so
-- Toss 116 from the glitched item in slot 3 of your bag.
+- Toss 116 from the glitched item in slot 3 of your bag. (x6stripe block from top left to bottom right)
   - You have 186, so you can scroll backwards and count
 - Walk 2 up and flash your items
 - Talk to the shop owner
@@ -100,11 +105,11 @@ Walk over to the PokéMart. Inside, perform these steps:
 - Toss 253 of the glitched item in the first slot of your bag
 - Swap slot 1 and slot 2 twice to merge the stacks
 - Scroll past your inventory until you hit normal items
-- Keep scrolling and find an item that looks like []x[] with quantity x[]3
+- Keep scrolling and find an item that looks like []x[] with quantity x[]3 (preoptions)
 - Toss []x[] x1
 - Scroll a bit further to find Ultra Ball x0
-- Swap Ultra Ball x0 with Master Ball x1
-- Toss Ultra Ball x251
+- Swap Ultra Ball x0 with Master Ball x1 5 below
+- Toss Ultra Ball x251 (x1)[]
 - Walk out the door to warp to Vermilion City
 - Vermilion City
 - Walk to the Pokémon Center and heal. Walk over to the PC and open your PC
@@ -134,7 +139,7 @@ Walk over to the PokéMart. Inside, perform these steps:
 - Scroll down until you see []x[] x75
 - Keep scrolling until you see Full Restore x0
 - Swap Full Restore x0 with []x[] x0 3 slots above []x[] x75
-- Swap Full Restore x0 with []x[] x76
+- Swap Full Restore x0 with []x[] x75
 - Withdraw Full Restore x1
 - Withdraw []x[] x1 (slot above Full Restore)
 - Scroll down until you see Safari Ball
