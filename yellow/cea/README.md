@@ -263,10 +263,10 @@ If Articuno goes to your party, swap him to the front. Once you have the compuls
 
 Enter the Pokémon Center. Open your item menu:
 - Swap Iron x1 in your inventory with v_t_m in Map Data (3 slots below warping)
-- Swap Roaming TMs with Master Ball in warping and toss 190
+- Swap Roaming TMs with Master Ball in warping and toss 190 first x0
 - Swap Ultra Ball x0 in Brightness with Soulbadge in Rival Name
-- Swap 0x76 in Rival Name with Parlyz Heal x94 in your inventory
-- Swap HP Up with 4 in Text Pointer
+- Swap 0x76 in Rival Name (down 2) with Parlyz Heal x94 in your inventory
+- Swap HP Up (up2) with 4 in Text Pointer
 - Scroll up to Great Ball x1 above warping
 - Exit the Center to warp to Cinnabar Island
 
@@ -278,20 +278,20 @@ Immediately open your item menu:
 - Swap X Defend x86 in your inventory with Helix Fossil in Text Pointer
 - Bike to the PokéMart sign and talk to it three times to receive three Eevee.
 - After getting three Eevee, bike to Cinnabar Lab. Open your item menu
-- Swap Antidote x84 (cursor should be on it) with Master Ball in warping
+- Swap Antidote x84 (cursor should be on it) with 0x76 in warping up5
 - Toss Antidote x1
 - Leave the lab to warp to Power Plant
 
 ## Power Plant
 Here, the only Pokémon required is Zapdos, however Voltorb is free and it’s pretty easy to get one of Grimer or Magnemite. Magneton and Muk are decent bonuses as well.
 
-Talk to Zapdos and catch it. Then Jack through the wall and head toward the entrance. The first item ball on the right (through a wall) is a Voltorb, so catch that if you haven’t yet. Then walk down, catch the Pokémon you want, and stop on the doormat. Open your item menu:
+Talk to Zapdos and catch it. Then Jack through the wall and head toward the entrance (down). The first item ball on the right (through a wall) is a Voltorb, so catch that if you haven’t yet. Then walk down, catch the Pokémon you want, and stop on the doormat. Open your item menu:
 - Swap the top stack of Rare Candy with HM03 in Rival Name
 - Toss Rare Candy x67 to get 188
 - NOTE: If you used Rare Candies to get Diglett to level 19, subtract that number from the toss (e.g. if you had a level 17 Diglett and used 2 Rare Candies, only toss 65)
 - Swap Ultra Ball x0 in Rival Name with Parlyz Heal x94 in Rival Name
-- Swap Ultra Ball x0 with Moon Stone x22 under warping
-- Swap Ultra Ball x0 with Master Ball x83 in warping
+- Swap Ultra Ball x0 with Moon Stone x22 under warping (under 0x76)
+- Swap Ultra Ball x0 with 0x76 x83 in warping
 - Toss Ultra Ball x21
 - *Maybe Horsea LG*
 - Leave the Power Plant to warp to Silph Co.
@@ -302,8 +302,8 @@ Walk up 1, down 1 to re-enter the teleporter. DO NOT WALK DOWN. Talk to the man 
 Enter the Pokémon Center and walk to your PC. If you do not have Articuno in your party, deposit something and withdraw Zapdos. In either case, **CHANGE BOX!** to Box 3. If you withdrew Zapdos, swap him to the front of your party now. Exit the center. Open your item menu:
 - Swap Moon Stone x22 in Rival Name with Helix Fossil in your inventory
 - Toss Moon Stone x3
-- Swap v_t_m with TM43 x4
-- Swap 0x76 with 6F
+- Swap v_t_m with TM43 x4 (above)
+- Swap 0x76 (down1) with 6F (bottom invetory)
 - Toss all Dire Hits
 - Use the Bicycle
 - Bike to Route 11
@@ -314,7 +314,7 @@ On Route 11, you can catch Pidgey, Pidgeotto, Rattata and Drowzee. The way this 
 - Use 6F
 - Hit Start
 - Open your item menu
-- Use v_t_m
+- Use v_t_m skip this for 2nd? do it later to unjack
 - Go to the LG location
 - Flash the item 4
 - Use Master Ball
@@ -323,9 +323,9 @@ On Route 11, you can catch Pidgey, Pidgeotto, Rattata and Drowzee. The way this 
 
 Typically, what I will do is grind encounters until I get an encounter I already have and do the next LG. I won’t catch Pidgeotto unless I have a Pidgey, as I’ll either need to get Pidgey AND Pidgeot later, or evolve a Pidgey through Pidgeotto to get to Pidgeot. It’s up to you.
 
-The two Pokémon you need in LG are Hitmonchan (tile is here) and Growlithe (tile is here).  After catching Growlithe, bike up to this trainer and battle him (Peck/Drill Peck)
+The two Pokémon you need in LG are Hitmonchan (tile is [here]( https://www.extratricky.com/pokeworld/rb/1#273,204)) and Growlithe (tile is [here](https://www.extratricky.com/pokeworld/rb/1#301,205)).  After catching Growlithe, bike up to [this](https://www.extratricky.com/pokeworld/rb/1#293,191) trainer and battle him (Peck/Drill Peck) let him see you
 
-After fighting the Gambler, be very careful. You need to get to Route 12 without encountering another Wild Pokémon or trainer battle. It is possible to get from the Gambler to this tile without entering grass or fighting a trainer, so do so. Once at that tile, Jack through the wall and enter the gatehouse. Walk through the gatehouse to the other side. On the other side, walk to the right and trigger a Trainer Fly. You should encounter Missingno. If you don’t, a few things could have gone wrong:
+After fighting the Gambler, be very careful. You need to get to Route 12 without encountering another Wild Pokémon or trainer battle. It is possible to get from the Gambler to [this](https://www.extratricky.com/pokeworld/rb/1#306,199) tile without entering grass or fighting a trainer, so do so. Once at that tile, Jack through the wall and enter the gatehouse. Walk through the gatehouse to the other side. On the other side, walk to the right and trigger a Trainer Fly. You should encounter Missingno. If you don’t, a few things could have gone wrong:
 You did not clear your save file before starting the run
 Vulpix was not the last Pokémon you fought
 You messed up the PC Underflow segment
