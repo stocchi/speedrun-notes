@@ -190,21 +190,21 @@ If done correctly, your money should read $757699.
 Stand directly below the 5F Right Teller.
 - Swap Pikachu and Scyther, so Scyther is in the lead.
 - Open your item menu
-- Swap Coin Case with 6F
-- Swap 6F with []x[] x[]6
-- Swap Ultra Ball x[]5 with Coin Case
+- Swap Coin Case with 6F (2->3)
+- Swap 6F with []x[] x[]6 (2->5)
+- Swap Ultra Ball x[]5 with Coin Case (6>3)
 - Toss all of the top item in your inventory 19 times
 - Toss Ultra Ball x253 (slot 1)
 - Swap slot 1 and slot 2 twice to merge the stacks
 - Swap Coin Case with Calcium
-- Swap Coin Case with bottom Master Ball in TID
+- Swap Coin Case with bottom Master Ball in TID (x[9])
 - Swap Bicycle in X Position with Calcium in your inventory
 - Swap Bicycle with Full Restore
 - Swap Bicycle with Ultra Ball
 - Walk 1 right, 1 down
 - Swap Ultra Ball with Master Ball in your inventory
 - Swap HP Up with the first JACK ([]o[] from now on) in Rival Name
-- Swap the second []o[] with []x[] x0 in Badges
+- Swap the second []o[] with []x[] x0 in Badges (under options)
 - Swap Rare Candy in X Position with Ether in Rival Name
 - Swap Rare Candy with Guard Spec in your inventory
 - Evolve Pikachu with a Thunderstone
@@ -215,17 +215,17 @@ Evolve Abra with 1 Rare Candy
 - Walk 2 left
 - Swap Full Restore with Super Rod in X Position
 - Swap Soulbadge (down 2) with Ultra Ball x0 in Brightness
-- Swap Soulbadge with []x[] x0 in Rival Name
-- Swap TID Item in Rival Name with [][][][] x[]3 (0x76 from now on) in Money
+- Swap Soulbadge with []x[] x0 in Rival Name (ABOVE GUARD SPEC)
+- Swap TID Item in Rival Name (DOWN2) with [][][][] x[]3 (0x76 from now on) in Money
 - Swap TM43 x[]8 in Rival Name with Super Potion x93 in your inventory
-- Toss TM43 down to 4
-- Swap Super Repel x93 with HP Up in Rival Name
+- Toss TM43 down to 4 (X[]4)
+- Swap Super Repel x93 (1 ABOVE) with HP Up in Rival Name
 - Swap Full Restore in X Position with []x[] x[]5 a few slots below
 - Swap Parlyz Heal x65 with HM03 below a CANCEL
 - Toss Parlyz Heal x29
 - Scroll down until you see []x[] x[]9 below a CANCEL
 - Swap []x[] x[]9 up with TM48 x39 above a CANCEL
-- Toss []x[] down to 19
+- Toss []x[] down to 19 (SECOND X0)
 - Walk 1 up, 1 left and mash A to start a fight - Slash
 - After the fight, teleport with Kadabra
 
