@@ -266,10 +266,10 @@ Deposit both Itemfinders.
 Swap top "? x0" with second "? x0".
 
 Deposit:
-- Ultra Ball x245
-- Master Ball x43
-- Max Repel x247
-- Poké Ball x19
+- Ultra Ball x245 (1 down, 1 left)
+- Master Ball x43 (up 2, 1 down 1 left up?)
+- Max Repel x247 (down again, 1 down 1 left 2 up)
+- Poké Ball x19 (up a lot, right 2 down 2)
 - Escape Rope x32
 - Rare Candy x61
 
@@ -282,22 +282,22 @@ Deposit:
 - Repel x37
 - Poké Doll x94
 - Cleanse Tag x27
-- Protein x113
+- Protein x113 (down left box x3)
 - Spell Tag x28
-- Iron x151
+- Iron x151 (up box x1)
 - Dragon Scale x26
-- HP Up x212
+- HP Up x212 (kx2)
 - TM21 x31
-- Calcium x172
-- Up-grade x193
+- Calcium x172 (second Itx2)
+- Up-grade x193 (nsx3)
 - TM03 x34
 - Leaf Stone x24
 - Water Stone x23
 - Thunderstone x22
-- Fire Stone x169
-- Sun Stone x143
-- Metal Coat x164
-- Friend Ball x239
+- Fire Stone x169 (x9 right box)
+- Sun Stone x143 (down box)
+- Metal Coat x164 (x4 right box)
+- Friend Ball x239 (Itx9)
 
 Withdraw:
 - HM05
@@ -342,7 +342,7 @@ swap bad clone to back of party
 
 deposit spam (+ other crap):
 - deposit top 5 party members in order
-- use move pkmn w/o mail and move the first croc in the box
+- use move pkmn w/o mail and move the first croc in the box to the party
 - deposit the other croc (the one that wasn't moved in the party)
 - withdraw 2 crocs + 2 sentrets
 - open the party menu (if something is PSN'd, make sure to heal it off w/Antidote)
@@ -357,9 +357,9 @@ deposit spam (+ other crap):
 
 swap bad clone to front of party
 swap sentret 'B' to 2nd, sentret 'A' to 3rd
-7 pokemon trick
-deposit spam + other crap (don't withdraw any crocs, just the 2 sentrets)
-bad clone to last, sentret 'A' to 1st, sentret 'B' to 2nd
+7 pokemon trick = move first croc in box2 in party, move bad clone last
+deposit first 5 pokemons, move with mail first croc into party, deposit the other croc, withdraw 2 sentrets
+bad clone to last, sentret 'A' to 1st, sentret 'B' to 2nd (attenzione qui, entr swappa bad clone col primo sentret (3slot), poi il secondo sentret (4slot) col primo slot, poi infine bad clone to last)
 take TM02s from sentrets
 rare candy sentret 'B' to L6
 deposit all but 1 croc
@@ -373,7 +373,7 @@ rare candy sentret 'B' to L12
 Toss/Swap:
 - Toss Poké Ball x80
 - Swap Squirtbottle below Cancels
-- Toss Poké Ball x184
+- Toss Poké Ball x184 (er x84)
 - Swap Squirtbottle with Poké Ball x71
 - Swap Master Ball x175 with Silver Wing
 - Metal Coat x255 with Star Piece x0 far below
