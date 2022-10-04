@@ -321,6 +321,7 @@ Lavender Rival:
 	- 16: TB x2, X Acc on Growlithe, HD x3
 	- 20+: X Acc, HD x5 (can Potion turn 2 if 1-8)
 
+First ghost: **swap ROCK SLIDE SLOT 1**
 
   Teach TM07 (Horn Drill) over slot 1 if you haven't already
 
@@ -330,16 +331,24 @@ Lavender Rival:
 
 #### Koga
 
-**Arbok**: Paralyz Heal 
+Arbok Rocket:
+- On Late Drill: Thrash
+	- Do NOT use a Parlyz Heal in fight and enter the next fight still paralyzed
+- On Early Drill: X Acc + HD
+	- Use Parlyz Heal immediately if Glare hits
 
-**Silph Rival Turn 2**: X Speed (2 under **S.S. Ticket**)
 
-**Silph Rival Turn 3**:
-
-HP | &nbsp;
------ | ---
-≤99 | X Special
-≥100 | Horn Drill
+  Silph Rival:
+  - Pidgeot:
+  	- X Acc
+  	- [use Parlyz Heal if needed]
+  	- Swap slot 8 **SS Ticket** with X Special
+  	- X Speed
+  	- HD
+  - Gyarados: HD
+  - Growlithe: RS on Early Drill / HD on Late Drill
+  - Alakazam: HD
+  - Venusaur: HD
 
 **Silph Rival Gyarados**:
 
@@ -363,27 +372,31 @@ HP | If +1 Spec and +1 Speed
 89-100 | Potion
 ≥101 | Poké Flute
 
-**Post-Silph Rival**: Elixir (8, 2 under **Potion**)
+**Post-Silph Rival**: Max Ether (6)
 
-**Silph Rocket** ≥78 Elixir on Drowzee (on Cubone instead if it Bone Clubs)
+**Silph Rocket** ≥78 Max Ether on Drowzee (on Cubone instead if it Bone Clubs below )
 
 **Rhyhorn** 24-37 TB
 
 **Snorlax Menu**:
-- Repel (4)
-- swap 5 for Rare Candy (3 under **X Special**)
+- Super Repel (3)
+- swap 4 for Rare Candy
 - Poké Flute (1 under)
 
+get candy, ppup (6 flowers)
+
 **Post-Cycling Road Menu**:
-- Repel (4)
-- swap 6 for X Special (2 under **Super Potion**)
-- TM26 (6 under, 3 under **Paralyze Heals**)
+- Use **Super Repel** 3
+- Swap slot 8 **Potion** with **X Speed**
+- Teach TM26 (Earthquake) over slot Thrash
+- Use Bike
 
 **Koga**:
-- Elixer on Weezing (8, 2 under **XSpecial**)
- - X Special (2 above) if X Attack and have a spare
+- Elixer on Weezing (8)
+ - X Special if X Attack and have a spare
 
 #### Erika
+- Rare candy x3
 
 **Boom Strats**
 
@@ -403,81 +416,75 @@ HP | Stall
 
 **Pallet Menu**:
 - Super Repel
-- swap Helix Fossil (8, 2 under **Max ether**) with XSpeed (5 under, 2 under **S.S.Ticket**)
-- HM03 (5 under, 2 under **PokeFlute**)
+- swap slot4 with PPUP
+- HM03
 
 **Blizzard**:
 - HM04
 - TM14
-- Repel (4)
+- Super Repel (3),
+- PPUP, 1 below
+
+**Blaine**
+Quiz: ABBBAB
 
 #### End
 
 **Gio**:
 - Elixer (6)
- - on bike menu if HD Growlithe
-
-Save 2 Blizzard
 
 **Viridian Rival**
-- XAcc
-- XSpeed (7, 2 under **Max Ether**)
-- TB Gyarados if elixir was used on bike menu
- - EQ Rhyhorn if you missed too many blizzard and elixir was used on bike menu
+Rival:
+- X Acc + X Speed + Blizz (+ TB/Blizz)
+- Blizz
+- TB
+- EQ
+- EQ
+- HD
 
-Pick Up Max Ether
+**Bruno**:
+- Use Elixer
+- Only if 1-19, Rare Candy now unless you need the jingle skip
 
-**Last Repel**:
-- Max Ether (2 under) **TO SLOT 1 POKEMON, CURSOR IS ON 2**
-- Super Repel (2 above)
-- Bike (on cursor)
-
-**Lorelei**: Swap Pidgey in front
-
-**Bruno**: Max Ether (4) **TO SLOT 2 POKEMON**
 
 **Agatha**:
+- Use Super Potion (+ Potion if 1-18)
+- Rare Candy
 
-HP at Agatha | Heal with
------ | ---
-≤18 | Super Potion + Potion
-≥19 | Super Potion
 
-- Super Potion (7, 2 under **Xspeed**) **TO SLOT 2 POKEMON**
-- Rare Candy (2 under HM03)
-
-Poké Flute (2 under HM02)
+Agatha:
+- Gengar: X Spec + EQ
+- Golbat: Blizz
+- EQ x3
+  - If Golbat used Haze, use TB x2 then X Speed on Arbok if you have 25-60. Otherwise Super Potion or yolo.
 
 **Lance**:
 
-HP at Lance | Heal with
------ | ---
-4-6    | Super Potion x2 + Potion x2
-8-26   | Super Potion x2 + Potion
-27-48  | Super Potion x2
-49-56  | Super Potion + Potion x2
-57-76  | Super Potion + Potion
-77-98  | Super Potion
-99-106 | Potion x2
-107-125| Potion
+HP      | Strat
+------- | ---------------------------
+4-7     | Super Potion x2 + Potion x2
+8-26    | Super Potion x2 + Potion
+27-48   | Super Potion x2
+49-56   | Super Potion + Potion x2
+57-76   | Super Potion + Potion
+77-98   | Super Potion
+99-106  | Potion x2
+107-126 | Potion
 
 
-- Elixer (4) **TO SLOT 2 POKEMON**
-- Super Potion (6)
-- Potion (2 under Super Potions, XSpeed if out of them)
+- Elixer (3)
+- Super Potion
 
 **Hydro Pump Miss** ≤132 X Speed
 
 **Champion**:
 
-HP at Champ | Heal with
------ | ---
-≤17    | Potion
-18-21   | Super Potion if great pace, otherwise don't heal
-22 | Super Potion if godly pace, otherwise don't heal
-23-37  | Don't heal if you have at least 1 Blizzard remaining
-38-44  | Potion if godly pace, otherwise don't heal
-≥45  | Don't heal
+**Menu** before Champ
+> WA does 18-22 damage & the fight is different depending on Pidgeot's first move
 
-- Super Potion (5)
-- Potion (6), (5) if out of Super Potion
+HP     | Strat
+------ | ------------------
+2-17   | Potion
+18-21  | Super Potion (yolo if you need red bar)
+22+    | Don't heal
+Any HP | Heal to 45+ or higher if you don't need red bar
