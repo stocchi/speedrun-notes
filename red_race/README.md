@@ -327,7 +327,7 @@ First ghost: **swap ROCK SLIDE SLOT 1**
 
 **Ghost**:
 - swap 3 for Super Repel (3 under **Max Ether**)
-- Poké Doll (2 under)
+- Poké Doll (3 under)
 
 #### Koga
 
