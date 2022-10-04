@@ -431,11 +431,11 @@ Quiz: ABBBAB
 #### End
 
 **Gio**:
-- Elixer (6)
+- Elixer (4)
 
 **Viridian Rival**
 Rival:
-- X Acc + X Speed + Blizz (+ TB/Blizz)
+- X Acc + X Speed (2 under elixer)+ Blizz (+ TB/Blizz)
 - Blizz
 - TB
 - EQ
