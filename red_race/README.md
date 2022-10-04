@@ -380,7 +380,7 @@ HP | If +1 Spec and +1 Speed
 
 **Snorlax Menu**:
 - Super Repel (3)
-- swap 4 for Rare Candy
+- swap 4 for Rare Candy (2 under **XSpeed**)
 - Poké Flute (1 under)
 
 get candy, ppup (6 flowers)
@@ -392,7 +392,7 @@ get candy, ppup (6 flowers)
 - Use Bike
 
 **Koga**:
-- Elixer on Weezing (8)
+- Elixer on Weezing (6)
  - X Special if X Attack and have a spare
 
 #### Erika
@@ -416,7 +416,7 @@ HP | Stall
 
 **Pallet Menu**:
 - Super Repel
-- swap slot4 with PPUP
+- swap slot4 with PPUP (2 under **Poke Flute**)
 - HM03
 
 **Blizzard**:
