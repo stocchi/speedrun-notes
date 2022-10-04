@@ -162,8 +162,26 @@ Rocket:
 - Zubat:MP (HA if you got Moon Exp)
 
 #### Misty
+Hiker:
+- SWAP WATER GUN TO SLOT 1
+- WG
 
-**Machop**: 16-20 HA(+PS)
+Lass:
+- MP
+- HA x2
+
+Hiker:
+- WG
+- WG
+- MP (+ PS/WG)
+	- HA + PS at 16-20
+- WG
+
+Lass:
+- 1-6 Potion on 1st Oddish
+- [LASS] Thrash
+- [LASS SKIP] MP, HA, MP
+	- Teach Thrash over WG (slot 2)
 
 **Bill**:
 
@@ -182,30 +200,25 @@ HP | ITEMS
 #### Surge
 
 **Post-Misty**
+If 1-11 do the following after the grass
+- Potion
+- Teach TM11 (Bubblebeam) in slot 4
 
-HP | ITEMS
------ | ---
-≤6 | Potion + teach BB + get IT again
-7-10 | Don't heal + fight male Jr. Trainer first
-≥11 | Don't heal + fight female Jr. trainer first
+before Rival:
+If 1-12
+- Potion
+- Teach TM11 (Bubblebeam) in slot 4
 
-
-**Pidgeotto**:
-
-HP | MOVE
------ | ---
-≤6 | Potion turn 1
-7-12 | HA
-≥13 | BB if you have it, otherwise HA
-
-**Raticate**
-
-HP | &nbsp;
------ | ---
-≤6 | Potion on good pace
-7-22 | MP
-≥23 | HA+PS
-
+Boat Rival:
+- Pidgeotto:
+	- HA x2 (BB x2 if you have it)
+		- If you get Sand-Attacked swap to bird and let it faint
+- Raticate:
+	- 1-12: Potion
+	- 13-22: MP
+	- 23+: HA + PS (or BB x2)
+- Kadabra:
+	- Thrash
 
 Gentleman on 1-8
  - 3rd door from the right
@@ -218,10 +231,21 @@ Gentleman on 1-8
 
 **Cut**:
 - Swap slot 1 with Repels (2 under TM11)
+ - [Rare Candy (6)]
 - TM11 (2 above)
 - HM01 (5)
- - [Rare Candy (6)]
 - TM28 (1 above)
+
+Surge:
+- 1-20: Thrash
+- 21-24: HA + BB or Thrash
+- 25+: BB + BB/HA
+- Hit self damage:
+	- 14 damage
+	- 9 damage w/ Growl
+	- 28 damage w/ Screech
+	- 21 damage w/ both
+
 
 #### Fly
 
@@ -243,39 +267,40 @@ HP | &nbsp;
 39-43 | Thrash Venonat + BB+BB+TB Slowpoke (take 2 hits)
 ≥44 | Thrash Venonat + TB Cubone and Thrash Slowpoke (take 2 hits)
 
-**Oddish**: 18-22 TB then Thrash, Paralyz Heal (6) if Stun Spore
+
+1-17 **Save**
+
+Oddish Girl:
+18-22 use: TB + Thrash, if asleep Potion at 1-5
 
 **Gambler**:
 
-HP | MOVE
------ | ---
-≤4 | Potion (7) on Growlithe
-5-20 | BB
-≥21 | Thrash
 
-**Lavender Rival**
+Gambler: [1-8 Potion turn 1]
+- Growlithe: BB (+ Thrash)
+- Vulpix: Thrash
+- Take note of your HP leaving Gambler
 
-HP | &nbsp;
------ | ---
-≤8 | Potion (6) turn 1 (X Acc turn 2 if no damage, TB if damage)
-9-19 | TB, then Thrash Ivysaur
-≥20 | X Acc
+HP    | Strategy
+----- | --------------
+1-8   | Early Drill
+9-15  | Late Drill
+16    | Early Drill, Late Drill if Gentleman Candy
+17-18 | Late Drill
+19    | Late Drill, Early Drill if you got Moon Exp
+20-27 | Early Drill
+28+   | Late Drill
 
-**Late Drill**:
-- 7 Super Repels
-- 4 Super Potions
+sell tm34 (1) and nuggets (2)
+Buy:
+- 10 Super Repels
+- 4 Super Potions (3 early)
+- Revives
 - 1 Poké Dolls
-- 11 X Accs
-- 6 X Specials
+- 12 X Accs (13 early)
+- 6 X Specials (5 early)
 - 3 X Speeds
 
-**Early Drill**:
-- 7 Super Repels
-- 3 Super Potions
-- 1 Poké Dolls
-- 12 X Accs
-- 5 X Specials
-- 3 X Speeds
 
 #### Flute
 
@@ -287,13 +312,25 @@ HP | &nbsp;
 - swap 3 with X Acc (2 under **Poke Dolls**)
 - HM02 (3 under)
 
+
+Lavender Rival:
+- On Late Drill:
+	- TB x2, BB, Thrash (1-8 on Growlithe use Potion, then BB)
+- On Early Drill:
+	- 1-8: Potion, X Acc, HD x5
+	- 16: TB x2, X Acc on Growlithe, HD x3
+	- 20+: X Acc, HD x5 (can Potion turn 2 if 1-8)
+
+
+  Teach TM07 (Horn Drill) over slot 1 if you haven't already
+
 **Ghost**:
 - swap 3 for Super Repel (3 under **Max Ether**)
 - Poké Doll (2 under)
 
 #### Koga
 
-**Arbok**: Paralyz Heal (5)
+**Arbok**: Paralyz Heal 
 
 **Silph Rival Turn 2**: X Speed (2 under **S.S. Ticket**)
 
