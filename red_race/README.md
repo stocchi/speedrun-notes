@@ -342,8 +342,9 @@ Arbok Rocket:
   - Pidgeot:
   	- X Acc
   	- [use Parlyz Heal if needed]
-  	- Swap slot 8 **SS Ticket** with X Special
-  	- X Speed
+  	- Swap slot 8 **SS Ticket** (2 below Max Ether)
+	-with X Special (2 belove Revives)
+  	- X Speed (1 Down)
   	- HD
   - Gyarados: HD
   - Growlithe: RS on Early Drill / HD on Late Drill
