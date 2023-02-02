@@ -252,13 +252,13 @@ Gentleman on 1-4 (up to 8 on great pace)
 - Swap Potion (1)
   - with Repels (7)
 - HM01 (6)
- - [Rare Candy (7)]
-- TM28 (1 above)
+ - [Rare Candy (7), repel are higher]
+- TM28 (2 above)
 
 #### Fly
 
 **Bike**:
-- swap 2 for Bike (2 under **Paralyze Heals**)
+- swap HelixFossil (2) for Bike (2 under **Paralyze Heals**)
 - TM34 (1 above)
 
 Repel (1)
@@ -308,22 +308,22 @@ HP | &nbsp;
 #### Flute
 
 **Fly Menu**:
-- swap 2 for TM07 (2 under **Max Ether**)
+- swap SSTICKET (2) for TM07 (2 under **Max Ether**)
 - Super Repel (1 under)
 - TM48 (3 under)
  - TM07 (2) if early drill, next swap starts with 2
-- swap 3 with X Acc (2 under **Poke Dolls**)
+- swap Full Restore(3) with X Acc (2 under **Poke Dolls**)
 - HM02 (3 under)
 
 **Ghost**:
-- swap 3 for Super Repel (3 under **Max Ether**)
+- swap HM01(3) for Super Repel (3 under **Max Ether**)
 - Poké Doll (2 under)
 
 #### Koga
 
 **Arbok**: Paralyz Heal (5)
 
-**Silph Rival Turn 2**: X Speed (2 under **S.S. Ticket**)
+**Silph Rival Turn 2**: X Speed (2 under **Full Restore**)
 
 **Silph Rival Turn 3**:
 
@@ -354,25 +354,26 @@ HP | If +1 Spec and +1 Speed
 89-100 | Potion
 ≥101 | Poké Flute
 
-**Post-Silph Rival**: Elixir (8, 2 under **Potion**)
+**Post-Silph Rival**: Elixir (8, 2 under **HELIXFOSSIL**)
 
 **Silph Rocket** ≥78 Elixir on Drowzee (on Cubone instead if it Bone Clubs)
 
 **Rhyhorn** 24-37 TB
 
 **Snorlax Menu**:
-- Repel (4)
-- swap 5 for Rare Candy (3 under **X Special**)
+- SuperRepel (3)
+- swap PARALYZHEAL(5) for Rare Candy (3 under **X Special**)
 - Poké Flute (1 under)
 
 **Post-Cycling Road Menu**:
-- Repel (4)
-- swap 6 for X Special (2 under **Super Potion**)
-- TM26 (6 under, 3 under **Paralyze Heals**)
+- SuperRepel (3)
+- swap POTION(4) for TM26 (2 under **POKEFLUTE**)
+- PPUP
+- TM26
 
 **Koga**:
-- Elixer on Weezing (8, 2 under **XSpecial**)
- - X Special (2 above) if X Attack and have a spare
+- Elixer on Weezing (7, 2 under **HELIXFOSSIL**)
+ - X Special (12) if X Attack and have a spare
 
 #### Erika
 
@@ -390,17 +391,17 @@ HP | Stall
 15-22 | Vileplume Poké Flute (out at L43-L45)
 ≥23 | Victreebel Poké Flute (out at L43-L45)
 
-**Post-Koga**: Rare Candy (5)
 
 **Pallet Menu**:
 - Super Repel
-- swap Helix Fossil (8, 2 under **Max ether**) with XSpeed (5 under, 2 under **S.S.Ticket**)
-- HM03 (5 under, 2 under **PokeFlute**)
+- Rare Candy
+- swap Helix Fossil (4) with XSpeed (2 under **FULLRESTORE**)
+- HM03 (5 under, 2 under **CARDKEY**)
 
 **Blizzard**:
 - HM04
 - TM14
-- Repel (4)
+- SUPERRepel (3)
 
 #### End
 
@@ -416,12 +417,7 @@ Save 2 Blizzard
 - TB Gyarados if elixir was used on bike menu
  - EQ Rhyhorn if you missed too many blizzard and elixir was used on bike menu
 
-Pick Up Max Ether
-
-**Last Repel**:
-- Max Ether (2 under) **TO SLOT 1 POKEMON, CURSOR IS ON 2**
-- Super Repel (2 above)
-- Bike (on cursor)
+2 REPEL VICTORY ROAD
 
 **Lorelei**: Swap Pidgey in front
 
@@ -434,7 +430,7 @@ HP at Agatha | Heal with
 ≤18 | Super Potion + Potion
 ≥19 | Super Potion
 
-- Super Potion (7, 2 under **Xspeed**) **TO SLOT 2 POKEMON**
+- Super Potion (7, 2 under **SSTICKET**) **TO SLOT 2 POKEMON**
 
 Poké Flute (2 under HM02)
 
@@ -454,7 +450,7 @@ HP at Lance | Heal with
 
 - Elixer (4) **TO SLOT 2 POKEMON**
 - Super Potion (6)
-- Potion (2 under Super Potions, XSpeed if out of them)
+- Potion (2 under POKEFLUTE)
 
 **Hydro Pump Miss** ≤132 X Speed
 
