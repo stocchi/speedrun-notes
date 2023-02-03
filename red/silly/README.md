@@ -298,12 +298,22 @@ HP | &nbsp;
 9-19 | TB, then Thrash Ivysaur
 ≥20 | X Acc
 
+Early drill:
 - 9 Super Repels
 - 3 Super Potions
 - 1 Poké Dolls
 - 12 X Accs
 - 3 X Specials
 - 5 X Speeds
+
+Late Drill:
+- 10 Super Repels
+- 3 Super Potions
+- 1 Poké Dolls
+- 11 X Accs
+- 3 X Specials
+- 6 X Speeds
+
 
 #### Flute
 
